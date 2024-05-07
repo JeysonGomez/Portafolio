@@ -3,16 +3,11 @@ import './Redes.css'
 
 function Redes() {
   return (
-    <div className="social-sidebar">
 
-        <img class="social-icon" src="Logolinkedin.png" alt=""></img>
-        
-
-        <a href="https://github.com/JeysonGomez" class="social-icon">
-        <img src="GitHub.png" alt=""></img>
-        </a>
-
-    </div>
+    <div class="social-sidebar">
+    <a href="https://github.com/JeysonGomez" className="social-icon"><img src="GitHub.png" alt="" /></a>
+    <a href="https://www.linkedin.com/in/jeysongomez17/" className="social-icon"><img src="Logolinkedin.png" alt="" /></a>
+</div>
   );
 }
 

@@ -1,0 +1,27 @@
+.Footer {
+    text-align: center;
+    color: #333;
+    border-top: 5px solid #ddd;
+    background-color: #333; /* Borde superior opcional */
+    margin-top: 20px;
+  }
+  
+  .allContent {
+    display: flex;
+    width: 100%;
+    padding-top: 80px;
+    align-items: center;
+    justify-content: center;
+    background-color: #333; 
+  }
+  
+  .img1 {
+    margin: 10px;
+    max-width: 50px;
+    background-color: #333; 
+  }
+  
+  .textCopy {
+    margin-top: 10px;
+    background-color: #333; 
+  }
