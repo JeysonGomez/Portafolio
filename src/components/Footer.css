@@ -1,27 +1,62 @@
 .Footer {
-    text-align: center;
-    color: #333;
-    border-top: 5px solid #ddd;
-    background-color: #333; /* Borde superior opcional */
-    margin-top: 20px;
-  }
+  width: 100%;
+  text-align: center;
+  color: #333;
+  border-top: 3px solid #ddd; /* Borde superior opcional */
+  margin-top: 20px;
+  border-radius: 10px;
+  background: #323232; 
+ 
+}
+
+.allContent {
+  display: flex;
+  width: 100%;
+  padding-top: 30px;
+  align-items: center;
+  justify-content: center;
+  background: #323232;
+}
+
+.Content1 {
+  display: grid;
+  grid-auto-columns: 5em;
+  text-align: center;
+  align-items: center;
+  background: #323232;
+}
+
+.img1 {
+  text-align: center;
+  align-items: center;
+  list-style: none;
+  text-decoration: none;
+  color: #000000;
+  background: #323232;
+}
+
+.imgRedes {
+  width: 35px;
+  padding-bottom: 10px;
+  background: #323232;
+}
+
+.img1 {
+  margin: 10px;
+  max-width: 10px;
+  font-size: 15px;
+  background: #323232;
+}
+
+
+.textCopy {
+  background: #323232;
+  margin-top: 10px;
+}
+
+span {
   
-  .allContent {
-    display: flex;
-    width: 100%;
-    padding-top: 80px;
-    align-items: center;
-    justify-content: center;
-    background-color: #333; 
-  }
-  
-  .img1 {
-    margin: 10px;
-    max-width: 50px;
-    background-color: #333; 
-  }
-  
-  .textCopy {
-    margin-top: 10px;
-    background-color: #333; 
-  }
+  font-size: 20px;
+  background: #323232;
+  color: #000000;
+}
