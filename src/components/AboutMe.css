@@ -1,11 +1,15 @@
 .subWrapAM{
     width: 100%;
     max-width: 2000px;
-    padding: 110px 40px;
+    padding: 70px 40px;
     display: flex;
     justify-content: center;
     align-items: center;
     gap: 30px;
+}
+
+.content-aboutMe h2 {
+    font-size: 40px;
 }
 
 /* IMG */

@@ -22,6 +22,10 @@
     border-radius: 5px;
 }
 
+.imgInicio img{
+    border-radius: 10px;
+}
+
 .inicioContent p {
     color: #a8a8a8;
 

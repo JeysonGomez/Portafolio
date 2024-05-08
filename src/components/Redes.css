@@ -2,22 +2,24 @@
     position: fixed;
     top: 50%;
     right: 0;
-    transform: translateY(-50%);
-    background-color: #fff;
-    padding: 20px;
-    border-right: 1px solid #ccc;
+    transform: translateY(-50%);    
+    align-items: center;
+    border-radius: 10px 0 0 10px;
+    justify-content: center;
+    
+   
 }
 
 .social-icon {
     display: block;
-    margin-bottom: 10px;
+    padding-right: 5px;
 }
 
 .social-icon img {
     width: 40px;
     height: auto;
     border-radius: 50%;
-    transition: transform 0.3s ease-in-out;
+    transition: transform 0.3s ease-in-out;  
 }
 
 .social-icon:hover img {

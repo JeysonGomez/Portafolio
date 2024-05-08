@@ -93,10 +93,11 @@ function Proyectos() {
             />
             <h2 className="text2">DoReMi Proyect :</h2>
             <p className="descripcionP">
-              Pagina desarrolada para explorar el maravilloso mundo de la
+              Pagina desarrolada con el equipo de estudio, para explorar el maravilloso mundo de la
               música! creemos que la música es más que solo sonido; es una forma
               de vida, una expresión de emociones y una conexión universal que
               une a personas de todas las edades y culturas.
+        
             </p>
           </div>
         </div>

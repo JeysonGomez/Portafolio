@@ -5,7 +5,7 @@ function Footer() {
   return (
     <section className="Footer">
       <div className="allContent">
-        
+
         <div className="Content1">
           <a  className="img1" href="https://github.com/JeysonGomez">
             <img className="imgRedes" src="src/assets/GitHub.png" alt="" />GitHub

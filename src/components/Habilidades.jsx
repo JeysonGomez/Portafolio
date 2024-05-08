@@ -55,8 +55,12 @@ function Habilidades() {
             <p className="text1">KOTLIN</p>
           </div>
           <div className="im1">
-            <img className="Notion" src="src/assets/Notion.png" alt="" />
-            <p className="text1">NOTION</p>
+            <img className="Figma" src="src/assets/figma.png" alt="" />
+            <p className="text1">Figma</p>
+          </div>
+          <div className="im1">
+            <img className="Trello" src="src/assets/trello.png" alt="" />
+            <p className="text1">Trello</p>
           </div>
         </div>
       </div>

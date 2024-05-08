@@ -8,7 +8,6 @@ function Inicio() {
   <section className='wrapContent bg1'>
        <div className='inicioContent'>
         <div className='infoInicio'>
-          <p>No se que poner</p>
           <h1>Full Stactk <br /> Software <br /> Developer <span className='incioPoint'></span></h1>
           <button className='btoInicio'>Ir a Proyectos</button>
         </div>

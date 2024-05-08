@@ -25,12 +25,13 @@
 .navHeader ul {
     width: 70%;
     display: flex;
-    justify-content: space-around;
+    justify-content: end;
     align-items: center;
 }
 
 .navHeader li {
     list-style: none;
+    padding-left: 10px;
 }
 
 .navHeader li .btoHeader {
