@@ -5,9 +5,7 @@
     transform: translateY(-50%);    
     align-items: center;
     border-radius: 10px 0 0 10px;
-    justify-content: center;
-    
-   
+    justify-content: center;  
 }
 
 .social-icon {
