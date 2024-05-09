@@ -5,8 +5,7 @@
   border-top: 3px solid #ddd; /* Borde superior opcional */
   margin-top: 20px;
   border-radius: 10px;
-  background: #323232; 
- 
+  background: #323232;
 }
 
 .allContent {
@@ -48,14 +47,12 @@
   background: #323232;
 }
 
-
 .textCopy {
   background: #323232;
   margin-top: 10px;
 }
 
 span {
-  
   font-size: 20px;
   background: #323232;
   color: #000000;

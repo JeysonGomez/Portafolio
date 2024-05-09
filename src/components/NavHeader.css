@@ -1,59 +1,58 @@
 .navHeader {
-    width: 100%;
-    max-width: 2000px;
-    height: 100px;
-    color: #fff;
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
-    padding-top: 10px;
+  width: 100%;
+  max-width: 2000px;
+  height: 100px;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding-top: 10px;
 }
 
 .navHeader h1 {
-    cursor: pointer;
-    transition: color .4s ease;
-    font-size: 40px;
+  cursor: pointer;
+  transition: color 0.4s ease;
+  font-size: 40px;
 }
 
 .navHeader h1:hover {
-    color: #4c8a06;
-    transition: color .4s ease;
+  color: #4c8a06;
+  transition: color 0.4s ease;
 }
 
 /*Links de Navegacion*/
 
 .navHeader ul {
-    width: 70%;
-    display: flex;
-    justify-content: end;
-    align-items: center;
+  width: 70%;
+  display: flex;
+  justify-content: end;
+  align-items: center;
 }
 
 .navHeader li {
-    list-style: none;
-    padding-left: 10px;
+  list-style: none;
+  padding-left: 10px;
 }
 
 .navHeader li .btoHeader {
-    background-color: transparent;
-    border: 0;
-    cursor: pointer;
-    text-decoration: none;
-    color: #fff;
-    text-transform: uppercase;
-    letter-spacing: 3px;
-    transition: color .4s ease;
-    font-size: 15px;
+  background-color: transparent;
+  border: 0;
+  cursor: pointer;
+  text-decoration: none;
+  color: #fff;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  transition: color 0.4s ease;
+  font-size: 15px;
 }
 
 .navHeader li .btoHeader:hover {
-    color: #4c8a06;
-    transition: color .4s ease;
+  color: #4c8a06;
+  transition: color 0.4s ease;
 }
 
-
 @media only screen and (max-width: 650px) {
-   .navHeader ul {
+  .navHeader ul {
     display: none;
-   } 
+  }
 }

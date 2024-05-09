@@ -1,74 +1,74 @@
-.subWrapAM{
-    width: 100%;
-    max-width: 2000px;
-    padding: 70px 40px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 30px;
+.subWrapAM {
+  width: 100%;
+  max-width: 2000px;
+  padding: 70px 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
 }
 
 .content-aboutMe h2 {
-    font-size: 40px;
+  font-size: 40px;
 }
 
 /* IMG */
 
 .imgAbout {
-    width: 350px;
-    height: 400px;
-    border: 5px solid var(--web-color);
-    border-radius: 15px;
-    position: relative;
+  width: 350px;
+  height: 400px;
+  border: 5px solid var(--web-color);
+  border-radius: 15px;
+  position: relative;
 }
 
-.imgAbout img{
-    position: absolute;
-    top: -20px;
-    left: -20px;
-    object-fit: cover;
-    height: 400px;
-    width: 350px;
-    border-radius: 15px;
+.imgAbout img {
+  position: absolute;
+  top: -20px;
+  left: -20px;
+  object-fit: cover;
+  height: 400px;
+  width: 350px;
+  border-radius: 15px;
 }
 
 /* Contenido */
 
 .subWrapAM .content-aboutMe {
-    padding: 50px;
-    max-width: 500px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    gap: 20px;
+  padding: 50px;
+  max-width: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 20px;
 }
 
-.subWrapAM .content-aboutMe h2{
-    color: #fff;
+.subWrapAM .content-aboutMe h2 {
+  color: #fff;
 }
 
-.subWrapAM .content-aboutMe p{
-    color: #b0b0b0;
+.subWrapAM .content-aboutMe p {
+  color: #b0b0b0;
 }
 
 /*Contenedor Botones*/
 
 .btoAbout {
-    display: flex;
-    align-items: center;
-    gap: 20px;
+  display: flex;
+  align-items: center;
+  gap: 20px;
 }
 
-@media only screen and (max-width: 1000px){
-    .subWrapAM {
-        margin: 50px 0;
-        flex-direction: column;
-        gap: 100px;
-    }
+@media only screen and (max-width: 1000px) {
+  .subWrapAM {
+    margin: 50px 0;
+    flex-direction: column;
+    gap: 100px;
+  }
 
-    .subWrapAM .content-aboutMe {
-        align-items: center;
-        text-align: center;
-        gap: 50px;
-    }
+  .subWrapAM .content-aboutMe {
+    align-items: center;
+    text-align: center;
+    gap: 50px;
+  }
 }

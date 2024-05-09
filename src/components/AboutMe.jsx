@@ -1,7 +1,7 @@
 import React from "react";
 import "./AboutMe.css";
 
-const AboutMe = () => {
+function AboutMe() {
   return (
     <article className="wrapContent bg1">
       <div className="subWrapAM">
@@ -12,17 +12,18 @@ const AboutMe = () => {
         <div className="content-aboutMe">
           <h2>Sobre Mi</h2>
           <p>
-            Que tal me presento soy Jeyson Gomez, un apasionado desarrollador web
-            Full Stack. <br /> Disfruto trabajar en equipo, aprender constantemente y
-            enfrentar nuevos desafíos. <br /> Me entusiasma colaborar en nuevos
-            proyectos. Poseo una mente creativa e innovadora, y tengo la
-            capacidad de aprender rápidamente. <br />Siempre estoy buscando nuevas
-            formas de abordar desafíos y puedo asimilar conocimientos de manera
-            ágil. <br /> Soy una persona empática y entusiasta, poseo habilidades
-            centradas en el trabajo en equipo, comunicación asertiva, resolución
-            de problemas, responsabilidad y proactividad. <br /> Disfruto aprendiendo
-            de los demás y superándome continuamente. ¡Contáctame para saber
-            cómo puedo contribuir a tu próximo proyecto!.
+            Que tal me presento soy Jeyson Gomez, un apasionado desarrollador
+            web Full Stack. <br /> Disfruto trabajar en equipo, aprender
+            constantemente y enfrentar nuevos desafíos. <br /> Me entusiasma
+            colaborar en nuevos proyectos. Poseo una mente creativa e
+            innovadora, y tengo la capacidad de aprender rápidamente. <br />
+            Siempre estoy buscando nuevas formas de abordar desafíos y puedo
+            asimilar conocimientos de manera ágil. <br /> Soy una persona
+            empática y entusiasta, poseo habilidades centradas en el trabajo en
+            equipo, comunicación asertiva, resolución de problemas,
+            responsabilidad y proactividad. <br /> Disfruto aprendiendo de los
+            demás y superándome continuamente. ¡Contáctame para saber cómo puedo
+            contribuir a tu próximo proyecto!.
           </p>
 
           <div className="btoAbout">
@@ -35,6 +36,6 @@ const AboutMe = () => {
       </div>
     </article>
   );
-};
+}
 
 export default AboutMe;
