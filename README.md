@@ -55,7 +55,7 @@ _Organizaria los componente, le pondria algo como tipo carrucel al tema de mis h
 
 # Mis Habilidades
 
-- React.js (Intermedio) ![React.js|50](src/assets/React.png)
+- React.js (Intermedio) <img src=React.png alt="React.js" width="50"/>
 - Java (Bajo) ![Java|50](src/assets/Java.png)
 - JavaScript (Intermedio) ![JavaScript|50](src/assets/Javascript.png)
 - Kotlin (Bajo) ![Kotlin|10](src/assets/Kotlin.png)
