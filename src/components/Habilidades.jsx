@@ -56,11 +56,15 @@ function Habilidades() {
           </div>
           <div className="im1">
             <img className="Figma" src="src/assets/figma.png" alt="" />
-            <p className="text1">Figma</p>
+            <p className="text1">FIGMA</p>
           </div>
           <div className="im1">
             <img className="Trello" src="src/assets/trello.png" alt="" />
-            <p className="text1">Trello</p>
+            <p className="text1">TRELLO</p>
+          </div>
+          <div className="im1">
+            <img className="Postman" src="src/assets/Postman.png" alt="" />
+            <p className="text1">POSTMAN</p>
           </div>
         </div>
       </div>
