@@ -55,14 +55,14 @@ _Organizaria los componente, le pondria algo como tipo carrucel al tema de mis h
 
 # Mis Habilidades
 
-- React.js (Intermedio) <img src=React.png alt="React.js" width="50"/>
-- Java (Bajo) ![Java|50](src/assets/Java.png)
-- JavaScript (Intermedio) ![JavaScript|50](src/assets/Javascript.png)
-- Kotlin (Bajo) ![Kotlin|10](src/assets/Kotlin.png)
-- Docker (Bajo) ![Docker|10](src/assets/Docker.png)
-- MySQL (Bajo) ![MySQL|5](src/assets/MySQL.png)
-- Postman (Intermedio) ![Postman|5](src/assets/Postman.png)
-- GitHub (Intermedio) ![GitHub!10](src/assets/GitHub.png)
+- React.js (Intermedio) <img src="React.png" alt="React" width="200"/>
+- Java (Bajo) ![Java](src/assets/Java.png)
+- JavaScript (Intermedio) ![JavaScript](src/assets/Javascript.png)
+- Kotlin (Bajo) ![Kotlin](src/assets/Kotlin.png)
+- Docker (Bajo) ![Docker](src/assets/Docker.png)
+- MySQL (Bajo) ![MySQL](src/assets/MySQL.png)
+- Postman (Intermedio) ![Postman](src/assets/Postman.png)
+- GitHub (Intermedio) ![GitHub](src/assets/GitHub.png)
 - Figma (Intermedio) ![Figma](src/assets/Figma.png)
 - Trello (Bajo) ![Trello](src/assets/Trello.png)
 
