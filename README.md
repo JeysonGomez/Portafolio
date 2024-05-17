@@ -55,9 +55,9 @@ _Organizaria los componente, le pondria algo como tipo carrucel al tema de mis h
 
 # Mis Habilidades
 
-- React.js (Intermedio) ![React.js](src/assets/React.png)
-- Java (Bajo) ![Java](src/assets/Java.png)
-- JavaScript (Intermedio) ![JavaScript](src/assets/Javascript.png)
+- React.js (Intermedio) ![React.js|50](src/assets/React.png)
+- Java (Bajo) ![Java|50](src/assets/Java.png)
+- JavaScript (Intermedio) ![JavaScript|50](src/assets/Javascript.png)
 - Kotlin (Bajo) ![Kotlin](src/assets/Kotlin.png)
 - Docker (Bajo) ![Docker](src/assets/Docker.png)
 - MySQL (Bajo) ![MySQL](src/assets/MySQL.png)
