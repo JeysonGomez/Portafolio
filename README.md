@@ -30,11 +30,11 @@ _Que es la parte de navegación, la cual cuenta con 4 botones Inicio, Proyectos,
 
 - Inicio
 
-_Muestra el titulo de mi especialidad, una foto aleatoria y un boton que dirige a los proyectos que e realizado._
+_Muestra el titulo de mi especialidad, una imgen aleatoria y un boton que dirige a los proyectos que he realizado._
 
 - About Me
 
-_Muestra una foto mía y una descripción de lo que me gusta realizar, un poco de mis habilidades personales y como puedo ayudar en los proyectos._
+_Comparto mi foto de perfil y una descripción de mis intereses, mis habilidades personales y cómo puedo aportar en los proyectos._
 
 - Mis Habilidades
 
@@ -42,11 +42,11 @@ _Aquí muestro mis habilidades laborales o las tecnologias en las que e realizad
 
 - Mis Proyectos
 
-_Aquí muestro un poco los trabajos Personales que e realizado y con diferentes tecnologias como React, SASS, Boostrap y varias mas._
+_Aquí muestro un poco los trabajos personales que e realizado y con diferentes tecnologias como React, SASS, Boostrap y varias mas._
 
 - SocialNetworks
 
-_En Redes muestra una barra lateral derecha las cuales muestra mis redes sociales o de trabajo las cuales en el momento son GitHub y Linkedin._
+_En socialnetworks muestra una barra lateral derecha las cuales muestra mis redes sociales o de trabajo las cuales en el momento son gitHub y linkedin._
 
 - Footer
 
@@ -55,6 +55,10 @@ _En el footer muestro mis redes sociales y el Copyright._
 # Componentes o Mejoras para el Proyecto
 
 _Organizaría los componente, pondría algo como tipo carrucel al apartado de mis habilidades, y en los proyectos haría como una reorganización del proyecto._
+
+- Organizacion Componentes
+- Ajustar Css
+- Modificar proyectos
 
 # Mis Habilidades
 
