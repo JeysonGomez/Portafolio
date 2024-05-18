@@ -99,23 +99,15 @@ _Organizaría los componente, pondría algo como tipo carrucel al apartado de mi
   </div>
 
 - <div class="Skill">
-    <h1>Figma (Intermedio)</h1>
+    <h3>Figma (Intermedio)</h3>
     <img src="src/assets/Figma.png" alt="Figma" width="50">      
   </div>
 
 - <div class="Skill">
-    <h1>Trello (Bajo)</h1>
+    <h3>Trello (Bajo)</h3>
     <img src="src/assets/Trello.png" alt="Trello" width="50">
     
   </div>
-
-  <style>
-    .Skill{
-      display:grid;
-      text-aling:center;
-  
-    }
-  </style>
 
 # ¿Que es Markdown?
 
