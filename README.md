@@ -59,43 +59,44 @@ _Organizaría los componente, pondría algo como tipo carrucel al apartado de mi
 # Mis Habilidades
 
 - <div class="Skill">
-   <img src="src/assets/React.png" alt="React.js" width="50">
-   <p>React.js (Intermedio)</p>
+    <h3>React.js (Intermedio)</h3>
+    <img src="src/assets/React.png" alt="React.js" width="50">   
   </div>
 
 - <div class="Skill">
-    <img src="src/assets/Java.png" alt="Java" width="50">
-    <p>Java (Bajo)</p>
+    <h3>Java (Bajo)</h3>
+    <img src="src/assets/Java.png" alt="Java" width="50">    
   </div>
 
 - <div class="Skill">
-    <img src="src/assets/Javascript.png" alt="JavaScript" width="50">
-    <p>JavaScript (Intermedio)</p>
+    <h3>JavaScript (Intermedio)</h3>
+    <img src="src/assets/Javascript.png" alt="JavaScript" width="50">    
   </div>
 
 - <div class="Skill">
-    <img src="src/assets/Kotlin.png" alt="Kotlin" width="50">
-    <p>Kotlin (Bajo)</p>
+    <h3>Kotlin (Bajo)</h3>
+    <img src="src/assets/Kotlin.png" alt="Kotlin" width="50">    
   </div>
 
 - <div class="Skill">
-    <img src="src/assets/Docker.png" alt="Docker" width="50">
-    <p>Docker (Bajo)</p>
+    <h3>Docker (Bajo)</h3>
+    <img src="src/assets/Docker.png" alt="Docker" width="50">    
   </div>
 
 - <div class="Skill">
-    <img src="src/assets/MySQL.png" alt="MySQL" width="50">
-    <p>MySQL (Bajo)</p>
+    <h3>MySQL (Bajo)</h3>
+    <img src="src/assets/MySQL.png" alt="MySQL" width="50">    
   </div>
 
 - <div class="Skill">
+    <h3>Postman (Intermedio)</h3>
     <img src="src/assets/Postman.png" alt="Postman" width="50">
-    <p>Postman (Intermedio)</p>
   </div>
 
 - <div class="Skill">
+    <h3>GitHub (Intermedio)</h3>
     <img src="src/assets/GitHub.png" alt="GitHub" width="50">
-    <p>GitHub (Intermedio)</p>
+    
   </div>
 
 - <div class="Skill">
