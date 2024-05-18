@@ -58,7 +58,7 @@ _Organizaría los componente, pondría algo como tipo carrucel al apartado de mi
 
 - Organizacion Componentes
 - Ajustar Css
-- Modificar proyectos
+- Ocultar imagenes en proyectos
 
 # Mis Habilidades
 
