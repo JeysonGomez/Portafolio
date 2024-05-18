@@ -59,25 +59,25 @@ _Organizaría los componente, pondría algo como tipo carrucel al apartado de mi
 # Mis Habilidades
 
 - React.js (Intermedio)
-  ![React.js](src/assets/React.png)
+  <img src="src/assets/React.png" alt="React.js" width="100">
 - Java (Bajo)
-  ![Javagit](src/assets/Java.png)
+  <img src="src/assets/Java.png" alt="Java" width="100">
 - JavaScript (Intermedio)
-  ![JavaScript](src/assets/Javascript.png)
+  <img src="src/assets/Javascript.png" alt="JavaScript" width="100">
 - Kotlin (Bajo)
-  ![Kotlin](src/assets/Kotlin.png)
+  <img src="src/assets/Kotlin.png" alt="Kotlin" width="100">
 - Docker (Bajo)
-  ![Docker](src/assets/Docker.png)
+  <img src="src/assets/Docker.png" alt="Docker" width="100">
 - MySQL (Bajo)
-  ![MySQL](src/assets/MySQL.png)
+  <img src="src/assets/MySQL.png" alt="MySQL" width="100">
 - Postman (Intermedio)
-  ![Postman](src/assets/Postman.png)
+  <img src="src/assets/Postman.png" alt="Postman" width="100">
 - GitHub (Intermedio)
-  ![GitHub](src/assets/GitHub.png)
+  <img src="src/assets/GitHub.png" alt="GitHub" width="100">
 - Figma (Intermedio)
-  ![Figma](src/assets/Figma.png)
+  <img src="src/assets/Figma.png" alt="Figma" width="100">
 - Trello (Bajo)
-  ![Trello](src/assets/Trello.png)
+  <img src="src/assets/Trello.png" alt="Trello" width="100">
 
 # ¿Que es Markdown?
 
