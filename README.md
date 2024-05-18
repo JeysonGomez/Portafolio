@@ -58,65 +58,62 @@ _Organizaría los componente, pondría algo como tipo carrucel al apartado de mi
 
 # Mis Habilidades
 
-- React.js (Intermedio)
-  <div>
-    <img src="src/assets/React.png" alt="React.js" width="100">
-    <p>React.js (Intermedio)</p>
+- <div class="Skill">
+   <img src="src/assets/React.png" alt="React.js" width="100">
+   <p>React.js (Intermedio)</p>
   </div>
 
-- Java (Bajo)
-  <div>
+- <div class="Skill">
     <img src="src/assets/Java.png" alt="Java" width="100">
     <p>Java (Bajo)</p>
   </div>
 
-- JavaScript (Intermedio)
-  <div>
+- <div class="Skill">
     <img src="src/assets/Javascript.png" alt="JavaScript" width="100">
     <p>JavaScript (Intermedio)</p>
   </div>
 
-- Kotlin (Bajo)
-  <div>
+- <div class="Skill">
     <img src="src/assets/Kotlin.png" alt="Kotlin" width="100">
     <p>Kotlin (Bajo)</p>
   </div>
 
-- Docker (Bajo)
-  <div>
+- <div class="Skill">
     <img src="src/assets/Docker.png" alt="Docker" width="100">
     <p>Docker (Bajo)</p>
   </div>
 
-- MySQL (Bajo)
-  <div>
+- <div class="Skill">
     <img src="src/assets/MySQL.png" alt="MySQL" width="100">
     <p>MySQL (Bajo)</p>
   </div>
 
-- Postman (Intermedio)
-  <div>
+- <div class="Skill">
     <img src="src/assets/Postman.png" alt="Postman" width="100">
     <p>Postman (Intermedio)</p>
   </div>
 
-- GitHub (Intermedio)
-  <div>
+- <div class="Skill">
     <img src="src/assets/GitHub.png" alt="GitHub" width="100">
     <p>GitHub (Intermedio)</p>
   </div>
 
-- Figma (Intermedio)
-  <div>
+- <div class="Skill">
     <img src="src/assets/Figma.png" alt="Figma" width="100">
     <p>Figma (Intermedio)</p>
   </div>
 
-- Trello (Bajo)
-  <div>
+- <div class="Skill">
     <img src="src/assets/Trello.png" alt="Trello" width="100">
     <p>Trello (Bajo)</p>
   </div>
+
+  <style>
+    .Skill{
+      text-aling:center;
+      
+    }
+  </style>
 
 # ¿Que es Markdown?
 
