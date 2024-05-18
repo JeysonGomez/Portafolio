@@ -59,59 +59,60 @@ _Organizaría los componente, pondría algo como tipo carrucel al apartado de mi
 # Mis Habilidades
 
 - <div class="Skill">
-   <img src="src/assets/React.png" alt="React.js" width="100">
+   <img src="src/assets/React.png" alt="React.js" width="50">
    <p>React.js (Intermedio)</p>
   </div>
 
 - <div class="Skill">
-    <img src="src/assets/Java.png" alt="Java" width="100">
+    <img src="src/assets/Java.png" alt="Java" width="50">
     <p>Java (Bajo)</p>
   </div>
 
 - <div class="Skill">
-    <img src="src/assets/Javascript.png" alt="JavaScript" width="100">
+    <img src="src/assets/Javascript.png" alt="JavaScript" width="50">
     <p>JavaScript (Intermedio)</p>
   </div>
 
 - <div class="Skill">
-    <img src="src/assets/Kotlin.png" alt="Kotlin" width="100">
+    <img src="src/assets/Kotlin.png" alt="Kotlin" width="50">
     <p>Kotlin (Bajo)</p>
   </div>
 
 - <div class="Skill">
-    <img src="src/assets/Docker.png" alt="Docker" width="100">
+    <img src="src/assets/Docker.png" alt="Docker" width="50">
     <p>Docker (Bajo)</p>
   </div>
 
 - <div class="Skill">
-    <img src="src/assets/MySQL.png" alt="MySQL" width="100">
+    <img src="src/assets/MySQL.png" alt="MySQL" width="50">
     <p>MySQL (Bajo)</p>
   </div>
 
 - <div class="Skill">
-    <img src="src/assets/Postman.png" alt="Postman" width="100">
+    <img src="src/assets/Postman.png" alt="Postman" width="50">
     <p>Postman (Intermedio)</p>
   </div>
 
 - <div class="Skill">
-    <img src="src/assets/GitHub.png" alt="GitHub" width="100">
+    <img src="src/assets/GitHub.png" alt="GitHub" width="50">
     <p>GitHub (Intermedio)</p>
   </div>
 
 - <div class="Skill">
-    <img src="src/assets/Figma.png" alt="Figma" width="100">
+    <img src="src/assets/Figma.png" alt="Figma" width="50">
     <p>Figma (Intermedio)</p>
   </div>
 
 - <div class="Skill">
-    <img src="src/assets/Trello.png" alt="Trello" width="100">
+    <img src="src/assets/Trello.png" alt="Trello" width="50">
     <p>Trello (Bajo)</p>
   </div>
 
   <style>
     .Skill{
+      display:grid;
       text-aling:center;
-      
+  
     }
   </style>
 
