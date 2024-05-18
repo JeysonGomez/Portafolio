@@ -24,31 +24,31 @@ _Entre otras más que me ayuden a implementar nuevas funcionalidades en los proy
 
 _Este proyecto es mi portafolio o CV, en el cual muestro los proyectos realizados anteriormente y mis habilidades.El proyecto lo realicé en la biblioteca de React.js Vite, y contiene un:_
 
-## NavHeader
+- NavHeader
 
 _Que es la parte de navegación, la cual cuenta con 4 botones Inicio, Proyectos, Sobre Mi, Contacto cada botón te dirige a la sección correspondiente._
 
-## Inicio
+- Inicio
 
 _Muestra el titulo de mi especialidad, una foto aleatoria y un boton que dirige a los proyectos que e realizado._
 
-## About Me
+- About Me
 
 _Muestra una foto mía y una descripción de lo que me gusta realizar, un poco de mis habilidades personales y como puedo ayudar en los proyectos._
 
-## Mis Habilidades
+- Mis Habilidades
 
 _Aquí muestro mis habilidades laborales o las tecnologias en las que e realizado mis proyectos._
 
-## Mis Proyectos
+- Mis Proyectos
 
 _Aquí muestro un poco los trabajos Personales que e realizado y con diferentes tecnologias como React, SASS, Boostrap y varias mas._
 
-## SocialNetworks
+- SocialNetworks
 
 _En Redes muestra una barra lateral derecha las cuales muestra mis redes sociales o de trabajo las cuales en el momento son GitHub y Linkedin._
 
-## Footer
+- Footer
 
 _En el footer muestro mis redes sociales y el Copyright._
 
