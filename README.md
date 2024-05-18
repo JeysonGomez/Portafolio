@@ -106,9 +106,15 @@ _Organizaría los componente, pondría algo como tipo carrucel al apartado de mi
 
 - <div class="Skill">
     <h3>Trello (Bajo)</h3>
-    <img src="src/assets/Trello.png" alt="Trello" width="50">
-    
+    <img src="src/assets/Trello.png" alt="Trello" width="50">    
   </div>
+
+  <style>
+    .Skill {
+      display:flex
+    }
+  
+  </style>
 
 # ¿Que es Markdown?
 
