@@ -58,8 +58,10 @@ _Organizaría los componente, pondría algo como tipo carrucel al apartado de mi
 
 # Mis Habilidades
 
-- React.js (Intermedio)
-  <img src="src/assets/React.png" alt="React.js" width="50">
+- <div>
+    <img src="src/assets/React.png" alt="React.js" width="100">
+    <p>React.js (Intermedio)</p>
+  </div>
 - Java (Bajo)
   <img src="src/assets/Java.png" alt="Java" width="50">
 - JavaScript (Intermedio)
