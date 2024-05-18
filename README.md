@@ -109,13 +109,6 @@ _Organizaría los componente, pondría algo como tipo carrucel al apartado de mi
     <img src="src/assets/Trello.png" alt="Trello" width="50">    
   </div>
 
-  <style>
-    .Skill {
-      display:flex
-    }
-  
-  </style>
-
 # ¿Que es Markdown?
 
 _Es un lenguaje demarcado de texto plano que utiliza caracteres especiales como #, /, \_, +, entre otros. Es conocido y accesible en todo tipo de teclados. Sirve para documentar proyectos, y se puede transcribir a otros tipos de lenguajes._
