@@ -95,7 +95,7 @@ _Organizaría los componente, pondría algo como tipo carrucel al apartado de mi
 
 - <div class="Skill">
     <h3>GitHub (Intermedio)</h3>
-    <img src="src/assets/GitHub.png" alt="GitHub" width="50">
+    <img src="src/assets/GitHub.png" alt="GitHub" width="100">
     
   </div>
 
