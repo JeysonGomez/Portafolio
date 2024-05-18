@@ -45,7 +45,7 @@ _Organizaria los componente, le pondria algo como tipo carrucel al tema de mis h
 # Mis Habilidades
 
 - React.js (Intermedio)
-  ![React.js](src/assets/React.png | width:20)
+  ![React.js](src/assets/React.png | width=20)
 - Java (Bajo)
   ![Java](src/assets/Java.png)
 - JavaScript (Intermedio)
