@@ -99,13 +99,14 @@ _Organizaría los componente, pondría algo como tipo carrucel al apartado de mi
   </div>
 
 - <div class="Skill">
-    <img src="src/assets/Figma.png" alt="Figma" width="50">
-    <p>Figma (Intermedio)</p>
+    <h1>Figma (Intermedio)</h1>
+    <img src="src/assets/Figma.png" alt="Figma" width="50">      
   </div>
 
 - <div class="Skill">
+    <h1>Trello (Bajo)</h1>
     <img src="src/assets/Trello.png" alt="Trello" width="50">
-    <p>Trello (Bajo)</p>
+    
   </div>
 
   <style>
