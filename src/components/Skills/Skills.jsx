@@ -6,7 +6,7 @@ function Skills() {
     <section className="wrapContent bg1">
       <div className="habilididadesContent">
         <div className="infoSkills">
-          <h1>Mis Skills en:</h1>
+          <h1>Mis Habilidades en:</h1>
         </div>
 
         <div className="imgSkills">
