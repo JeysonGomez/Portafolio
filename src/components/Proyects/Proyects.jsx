@@ -1,5 +1,5 @@
 import React from "react";
-import "./Proyects/Proyects.css";
+import "./Proyects.css";
 
 function Proyects() {
   return (
@@ -44,7 +44,7 @@ function Proyects() {
             <p className="descripcionP">
               Pagina desarrollada para tu destino en línea para todo lo
               relacionado con tus amigos peludos de cuatro patas! entendemos que
-              tus mascotas son más que solo animales; son parte de tu familia.{" "}
+              tus mascotas son más que solo animales; son parte de tu familia.
             </p>
           </div>
           <div className="imgPs">
