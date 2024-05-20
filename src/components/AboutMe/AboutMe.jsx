@@ -26,7 +26,7 @@ function AboutMe() {
             contribuir a tu próximo proyecto!.
           </p>
 
-          <div className="btoAbout">
+          <div className="btoAbouts">
             <button className="btoHere">Here Me</button>
             <button className="btoResume">
               <span>Resume</span>
