@@ -116,7 +116,7 @@ _Organizaría los componente, pondría algo como tipo carrucel al apartado de mi
   .Skill {
     display: flex;
     align-items: center;
-    justify-content: row;
+    justify-content: space-around;
   }
 </style>
 
