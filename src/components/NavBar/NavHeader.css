@@ -34,7 +34,7 @@
   padding-left: 10px;
 }
 
-.navHeader li .btoHeader {
+.navHeader li .btnHeader {
   background-color: transparent;
   border: 0;
   cursor: pointer;
@@ -46,7 +46,7 @@
   font-size: 15px;
 }
 
-.navHeader li .btoHeader:hover {
+.navHeader li .btnHeader:hover {
   color: #4c8a06;
   transition: color 0.4s ease;
 }

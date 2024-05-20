@@ -3,23 +3,23 @@ import "./NavHeader.css";
 
 function NavHeader() {
   return (
-    <header className="wrapContent bg1">
+    <header className="NavContent bg1">
       <nav className="navHeader">
         <div>
           <h1>Desarrollador</h1>
         </div>
         <ul>
           <li>
-            <button className="btoHeader">Inicio</button>
+            <button className="btnHeader">Inicio</button>
           </li>
           <li>
-            <button className="btoHeader">Proyectos</button>
+            <button className="btnHeader">Proyectos</button>
           </li>
           <li>
-            <button className="btoHeader">Sobre Mi</button>
+            <button className="btnHeader">Sobre Mi</button>
           </li>
           <li>
-            <button className="btoHeader">Contacto</button>
+            <button className="btnHeader">Contacto</button>
           </li>
         </ul>
       </nav>
