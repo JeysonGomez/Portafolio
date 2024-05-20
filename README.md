@@ -109,11 +109,11 @@ _Organizaría los componente, pondría algo como tipo carrucel al apartado de mi
 
 - <div class="Skill">
     <h3>Trello (Bajo)</h3>
-    <img src="src/assets/Trello.png" alt="Trello" width="50">    
+    <img class="Imagenes" src="src/assets/Trello.png" alt="Trello" width="50">    
   </div>
 
 <style>
-  .Skill {
+  .Imagenes {
     display: flex;
     align-items: center;
     justify-content: space-around;
