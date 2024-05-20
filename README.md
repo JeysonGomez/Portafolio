@@ -107,7 +107,7 @@ _Organizaría los componente, pondría algo como tipo carrucel al apartado de mi
     <img src="src/assets/MySQL.png" alt="MySQL" width="50">    
   </div>
 
-- <div class="Skill">
+- <div class="Imagenes">
     <h3>Trello (Bajo)</h3>
     <img class="Imagenes" src="src/assets/Trello.png" alt="Trello" width="50">    
   </div>
