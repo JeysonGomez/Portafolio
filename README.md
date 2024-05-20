@@ -107,18 +107,10 @@ _Organizaría los componente, pondría algo como tipo carrucel al apartado de mi
     <img src="src/assets/MySQL.png" alt="MySQL" width="50">    
   </div>
 
-- <div class="Imagenes">
+- <div class="Skill">
     <h3>Trello (Bajo)</h3>
-    <img class="Imagenes" src="src/assets/Trello.png" alt="Trello" width="50">    
+    <img src="src/assets/Trello.png" alt="Trello" width="50">    
   </div>
-
-<style>
-  .Imagenes {
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
-  }
-</style>
 
 # ¿Que es Markdown?
 
