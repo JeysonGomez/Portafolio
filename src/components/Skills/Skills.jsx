@@ -1,15 +1,15 @@
 import React from "react";
-import "./Habilidades.css";
+import "./Skills.css";
 
-function Habilidades() {
+function Skills() {
   return (
     <section className="wrapContent bg1">
       <div className="habilididadesContent">
-        <div className="infoHabilidades">
-          <h1>Mis Habilidades en:</h1>
+        <div className="infoSkills">
+          <h1>Mis Skills en:</h1>
         </div>
 
-        <div className="imgHabilidades">
+        <div className="imgSkills">
           <div className="im1">
             <img className="github" src="src/assets/GitHub.png" alt="" />
             <p className="text1">GitHub</p>
@@ -72,4 +72,4 @@ function Habilidades() {
   );
 }
 
-export default Habilidades;
+export default Skills;

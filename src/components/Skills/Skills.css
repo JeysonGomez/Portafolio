@@ -1,4 +1,4 @@
-.infoHabilidades h1 {
+.infoSkills h1 {
   font-size: 50px;
   text-align: center;
   font-family: "Times New Roman", Times, serif;
@@ -6,7 +6,7 @@
   padding-bottom: 40px;
 }
 
-.imgHabilidades {
+.imgSkills {
   width: 100%;
   display: grid;
   grid-template-columns: 5rem 5rem 5rem 5rem 5rem 5rem;
