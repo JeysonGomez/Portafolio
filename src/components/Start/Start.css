@@ -1,4 +1,4 @@
-.inicioContent {
+.StartContent {
   display: flex;
   justify-content: space-around;
   align-items: center;
@@ -8,12 +8,12 @@
   color: #fff;
 }
 
-.inicioContent h1 {
+.StartContent h1 {
   font-weight: bold;
   font-size: 4em;
 }
 
-.inicioPoint {
+.StartPoint {
   display: inline-block;
   width: 13px;
   height: 13px;
@@ -22,21 +22,21 @@
   border-radius: 5px;
 }
 
-.imgInicio img {
+.imgStart img {
   border-radius: 10px;
 }
 
-.inicioContent p {
+.StartContent p {
   color: #a8a8a8;
 }
 
-.infoInicio {
+.infoStart {
   padding-right: 30px;
 }
 
-/*Boton Inicio*/
+/*Boton Start*/
 
-.btoInicio {
+.btnStart {
   margin: 30px 0 20px;
   cursor: pointer;
   --border-color: linear-gradient(-45deg, #ffae00, #7e03aa, #00fffb);
@@ -66,32 +66,20 @@
   transition: color 250ms;
 }
 
-.btoInicio::after .btoInicio::before {
+.btnStart::after .btnStart::before {
   content: "";
   position: absolute;
   inset: 0;
 }
 
-.btoInicio::before {
+.btnStart::before {
   background: var(--border-color);
   background-size: 300% 300%;
   animation: move-bg7234 5s ease infinite;
   z-index: -2;
 }
 
-@keyframes move-bg7234 {
-  0% {
-    background-position: 31% 0;
-  }
-  50% {
-    background-position: 70% 100%;
-  }
-  100% {
-    background-position: 31% 0;
-  }
-}
-
-.btoInicio::after {
+.btnStart::after {
   background: var(--bg);
   z-index: -1;
   clip-path: polygon(
@@ -109,7 +97,7 @@
   transition: clip-path 500ms;
 }
 
-.btoInicio:where(:hover, :focus)::after {
+.btnStart:where(:hover, :focus)::after {
   clip-path: polygon(
     /*top-left*/ calc(100% - var(--border-color))
       calc(100% - calc(var(--curve-size) + var(--border-width) * 0.5)),
@@ -128,22 +116,33 @@
   transition: 200ms;
 }
 
-.btoInicio:where(:hover, :focus) {
-  color: #fff;
+.btnStart:where(:hover, :focus) {
+  color: #070505;
+}
+@keyframes move-bg7234 {
+  0% {
+    background-position: 31% 0;
+  }
+  50% {
+    background-position: 70% 100%;
+  }
+  100% {
+    background-position: 31% 0;
+  }
 }
 
 /* Media Query */
 
 @media only screen and (max-width: 1090px) {
-  .imgInicio {
+  .imgStart {
     display: none;
   }
 
-  .infoInicio {
+  .infoStart {
     text-align: center;
   }
 
-  .infoInicio h1 {
+  .infoStart h1 {
     margin-top: 20px;
   }
 }
