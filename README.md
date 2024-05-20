@@ -67,25 +67,25 @@ _Organizaría los componente, pondría algo como tipo carrucel al apartado de mi
     <img src="src/assets/React.png" alt="React.js" width="50">   
   </div>
 
-  - <div class="Skill">
-      <h3>JavaScript (Intermedio)</h3>
-      <img src="src/assets/Javascript.png" alt="JavaScript" width="50">    
-    </div>
+- <div class="Skill">
+    <h3>JavaScript (Intermedio)</h3>
+    <img src="src/assets/Javascript.png" alt="JavaScript" width="50">    
+  </div>
 
-  - <div class="Skill">
-      <h3>Postman (Intermedio)</h3>
-      <img src="src/assets/Postman.png" alt="Postman" width="50">
-    </div>
+- <div class="Skill">
+    <h3>Postman (Intermedio)</h3>
+    <img src="src/assets/Postman.png" alt="Postman" width="50">
+  </div>
 
-  - <div class="Skill">
-      <h3>GitHub (Intermedio)</h3>
-      <img src="src/assets/GitHub.png" alt="GitHub" width=50">    
-    </div>
+- <div class="Skill">
+    <h3>GitHub (Intermedio)</h3>
+    <img src="src/assets/GitHub.png" alt="GitHub" width=50">    
+  </div>
 
-  - <div class="Skill">
-      <h3>Figma (Intermedio)</h3>
-      <img src="src/assets/Figma.png" alt="Figma" width="50">      
-    </div>
+- <div class="Skill">
+    <h3>Figma (Intermedio)</h3>
+    <img src="src/assets/Figma.png" alt="Figma" width="50">      
+  </div>
 
 - <div class="Skill">
     <h3>Java (Bajo)</h3>
