@@ -11,12 +11,13 @@ _Busco para aprender mediante videos de Youtube, o informacion en internet que m
 - CodeGym
 - CodeReview
 - Brais Moure
+- [HolaMundo](https://www.youtube.com/@HolaMundoDev)
 
 ## Paginas como
 
 - Boostrap
 - MDM Web Docs
-- W3schools
+- W3Schools
 
 _Entre otras más que me ayuden a implementar nuevas funcionalidades en los proyectos a realizar._
 
@@ -67,14 +68,29 @@ _Organizaría los componente, pondría algo como tipo carrucel al apartado de mi
     <img src="src/assets/React.png" alt="React.js" width="50">   
   </div>
 
+  - <div class="Skill">
+      <h3>JavaScript (Intermedio)</h3>
+      <img src="src/assets/Javascript.png" alt="JavaScript" width="50">    
+    </div>
+
+  - <div class="Skill">
+      <h3>Postman (Intermedio)</h3>
+      <img src="src/assets/Postman.png" alt="Postman" width="50">
+    </div>
+
+  - <div class="Skill">
+      <h3>GitHub (Intermedio)</h3>
+      <img src="src/assets/GitHub.png" alt="GitHub" width=50">    
+    </div>
+
+  - <div class="Skill">
+      <h3>Figma (Intermedio)</h3>
+      <img src="src/assets/Figma.png" alt="Figma" width="50">      
+    </div>
+
 - <div class="Skill">
     <h3>Java (Bajo)</h3>
     <img src="src/assets/Java.png" alt="Java" width="50">    
-  </div>
-
-- <div class="Skill">
-    <h3>JavaScript (Intermedio)</h3>
-    <img src="src/assets/Javascript.png" alt="JavaScript" width="50">    
   </div>
 
 - <div class="Skill">
@@ -90,22 +106,6 @@ _Organizaría los componente, pondría algo como tipo carrucel al apartado de mi
 - <div class="Skill">
     <h3>MySQL (Bajo)</h3>
     <img src="src/assets/MySQL.png" alt="MySQL" width="50">    
-  </div>
-
-- <div class="Skill">
-    <h3>Postman (Intermedio)</h3>
-    <img src="src/assets/Postman.png" alt="Postman" width="50">
-  </div>
-
-- <div class="Skill">
-    <h3>GitHub (Intermedio)</h3>
-    <img src="src/assets/GitHub.png" alt="GitHub" width="70">
-    
-  </div>
-
-- <div class="Skill">
-    <h3>Figma (Intermedio)</h3>
-    <img src="src/assets/Figma.png" alt="Figma" width="50">      
   </div>
 
 - <div class="Skill">
