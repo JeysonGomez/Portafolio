@@ -1,4 +1,4 @@
-# Perfil Tecnico
+# Perfil Técnico
 
 _Soy una persona proactiva la cual me gusta aprender muchas cosas, una de ellas es la programación o desarrollo de aplicaciones.También me gusta tambien trabajar en equipo, me gusta realizar proyectos en el cual pueda desempeñar mis cualidades y tambien aprender más, tanto de los proyectos como de mis compañeros._
 
@@ -6,18 +6,17 @@ _Soy una persona proactiva la cual me gusta aprender muchas cosas, una de ellas 
 
 _Busco para aprender mediante videos de Youtube, o informacion en internet que me dé varias ideas para realizar lo que estoy buscando.De igual forma sigo a creadores de contenido en desarrollo como:_
 
-- HolaMundo
-- BettaTech
-- CodeGym
-- CodeReview
-- Brais Moure
 - [HolaMundo](https://www.youtube.com/@HolaMundoDev)
+- [CodeGym](https://www.youtube.com/@codegym1714)
+- [FullStapps](https://www.youtube.com/@fullstapps)
+- [CodeReview](https://www.youtube.com/@codereview_)
+- [Brais Moure](https://www.youtube.com/@mouredev)
 
 ## Paginas como
 
-- Boostrap
-- MDM Web Docs
-- W3Schools
+- [Boostrap](https://getbootstrap.com/)
+- [MDM Web Docs](https://developer.mozilla.org/en-US/s)
+- [W3Schools](https://www.w3schools.com/)
 
 _Entre otras más que me ayuden a implementar nuevas funcionalidades en los proyectos a realizar._
 
