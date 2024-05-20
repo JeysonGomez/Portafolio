@@ -5,17 +5,20 @@ function Footer() {
   return (
     <section className="Footer">
       <div className="allContent">
-        <div className="Content1">
-          <a className="img1" href="https://github.com/JeysonGomez">
-            <img className="imgRedes" src="src/assets/GitHub.png" alt="" />
+        <div className="Content">
+          <a className="ImagenSocial" href="https://github.com/JeysonGomez">
+            <img className="imgSocial" src="src/assets/GitHub.png" alt="" />
             GitHub
           </a>
         </div>
 
-        <div className="Content1">
-          <a className="img1" href="https://www.linkedin.com/in/jeysongomez17/">
+        <div className="Content">
+          <a
+            className="ImagenSocial"
+            href="https://www.linkedin.com/in/jeysongomez17/"
+          >
             <img
-              className="imgRedes"
+              className="imgSocial"
               src="src/assets/Logolinkedin.png"
               alt="Linkedin"
             />

@@ -1,8 +1,10 @@
+/*Muestra Todo el Footer*/
+
 .Footer {
   width: 100%;
   text-align: center;
   color: #333;
-  border-top: 3px solid #ddd; /* Borde superior opcional */
+  border-top: 3px solid #ddd;
   margin-top: 20px;
   border-radius: 10px;
   background: #323232;
@@ -17,7 +19,9 @@
   background: #323232;
 }
 
-.Content1 {
+/*Muestra el contenido de la imagen y Link*/
+
+.Content {
   display: grid;
   grid-auto-columns: 5em;
   text-align: center;
@@ -25,27 +29,25 @@
   background: #323232;
 }
 
-.img1 {
-  text-align: center;
-  align-items: center;
-  list-style: none;
-  text-decoration: none;
-  color: #000000;
-  background: #323232;
-}
-
-.imgRedes {
+.imgSocial {
   width: 35px;
   padding-bottom: 10px;
   background: #323232;
 }
 
-.img1 {
+.ImagenSocial {
+  color: #000000;
+  text-align: center;
+  align-items: center;
+  list-style: none;
+  text-decoration: none;
   margin: 10px;
   max-width: 10px;
   font-size: 15px;
   background: #323232;
 }
+
+/*Muestra el Copyright */
 
 .textCopy {
   background: #323232;
