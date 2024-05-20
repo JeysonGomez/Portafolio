@@ -1,4 +1,4 @@
-.subWrapAM {
+.subAbout {
   width: 100%;
   max-width: 2000px;
   padding: 70px 40px;
@@ -34,7 +34,7 @@
 
 /* Contenido */
 
-.subWrapAM .content-aboutMe {
+.subAbout .content-aboutMe {
   padding: 50px;
   max-width: 500px;
   display: flex;
@@ -43,11 +43,11 @@
   gap: 20px;
 }
 
-.subWrapAM .content-aboutMe h2 {
+.subAbout .content-aboutMe h2 {
   color: #fff;
 }
 
-.subWrapAM .content-aboutMe p {
+.subAbout .content-aboutMe p {
   color: #b0b0b0;
 }
 
@@ -60,13 +60,13 @@
 }
 
 @media only screen and (max-width: 1000px) {
-  .subWrapAM {
+  .subAbout {
     margin: 50px 0;
     flex-direction: column;
     gap: 100px;
   }
 
-  .subWrapAM .content-aboutMe {
+  .subAbout .content-aboutMe {
     align-items: center;
     text-align: center;
     gap: 50px;

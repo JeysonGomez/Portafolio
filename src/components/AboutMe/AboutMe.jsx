@@ -3,8 +3,8 @@ import "./AboutMe.css";
 
 function AboutMe() {
   return (
-    <article className="wrapContent bg1">
-      <div className="subWrapAM">
+    <article className="AboutContent bg1">
+      <div className="subAbou">
         <div className="imgAbout">
           <img src="src/assets/Fondo.avif" alt="" />
         </div>
@@ -27,8 +27,8 @@ function AboutMe() {
           </p>
 
           <div className="btoAbout">
-            <button className="bto1">Here Me</button>
-            <button className="bto2">
+            <button className="btoHere">Here Me</button>
+            <button className="btoResume">
               <span>Resume</span>
             </button>
           </div>
