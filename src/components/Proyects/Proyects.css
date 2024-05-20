@@ -7,7 +7,7 @@
   background-color: var(--bg-color);
 }
 
-.proyectosContent {
+.ProyectsContent {
   width: 100%;
   text-align: center;
   justify-content: center;
@@ -23,12 +23,12 @@
   font-family: "Times New Roman", Times, serif;
 }
 
-.imgProyectos {
+.imgProyects {
   width: 100%;
   display: grid;
 }
 
-.imgP {
+.imgPs {
   width: 95%;
   display: grid;
   grid-template-columns: 10rem 15rem 15rem;
@@ -78,11 +78,11 @@
   }
 }
 
-.imgP img {
+.imgPs img {
   object-fit: cover;
   border-radius: 20px;
 }
-.imgProyectos {
+.imgProyects {
   position: relative;
   width: 200px;
   height: 1400px;

@@ -1,15 +1,15 @@
 import React from "react";
-import "./Proyectos.css";
+import "./Proyects/Proyects.css";
 
-function Proyectos() {
+function Proyects() {
   return (
-    <section className="wrapContent b1">
-      <div className="proyectosContent">
+    <section className="ProyectsContent b1">
+      <div className="proyectsContent">
         <div className="infoProyectos">
           <h1>Mis Proyectos</h1>
         </div>
-        <div className="imgProyectos">
-          <div className="imgP">
+        <div className="imgProyects">
+          <div className="imgPs">
             <img
               className="Calculadora"
               src="src/assets/Proyectos/Calculadora.png"
@@ -22,7 +22,7 @@ function Proyectos() {
               sencilla de utilizar.
             </p>
           </div>
-          <div className="imgP">
+          <div className="imgPs">
             <img
               className="Manage"
               src="src/assets/Proyectos/Manage.png"
@@ -34,7 +34,7 @@ function Proyectos() {
               reforzar lo aprendido durante el tiempo de estudio
             </p>
           </div>
-          <div className="imgP">
+          <div className="imgPs">
             <img
               className="PetShop"
               src="src/assets/Proyectos/PetShop.png"
@@ -47,7 +47,7 @@ function Proyectos() {
               tus mascotas son más que solo animales; son parte de tu familia.{" "}
             </p>
           </div>
-          <div className="imgP">
+          <div className="imgPs">
             <img
               className="Sportit"
               src="src/assets/Proyectos/Sportit.png"
@@ -61,7 +61,7 @@ function Proyectos() {
               noticias y eventos deportivos
             </p>
           </div>
-          <div className="imgP">
+          <div className="imgPs">
             <img
               className="Proyecto1"
               src="src/assets/Proyectos/Proyecto1.png"
@@ -73,7 +73,7 @@ function Proyectos() {
               reforzar lo aprendido durante el tiempo de estudio
             </p>
           </div>
-          <div className="imgP">
+          <div className="imgPs">
             <img
               className="Proyecto2"
               src="src/assets/Proyectos/Proyecto2.png"
@@ -85,7 +85,7 @@ function Proyectos() {
               reforzar lo aprendido durante el tiempo de estudio
             </p>
           </div>
-          <div className="imgP">
+          <div className="imgPs">
             <img
               className="Manage"
               src="src/assets/Proyectos/DOREMI.png"
