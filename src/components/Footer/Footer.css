@@ -19,7 +19,7 @@
   background: #323232;
 }
 
-/*Muestra el contenido de la imagen y Link*/
+/*Muestra el contenido de la imagen y Links*/
 
 .Content {
   display: grid;
@@ -35,7 +35,7 @@
   background: #323232;
 }
 
-.ImagenSocial {
+.contentSocial {
   color: #000000;
   text-align: center;
   align-items: center;

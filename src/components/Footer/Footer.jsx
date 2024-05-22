@@ -6,15 +6,19 @@ function Footer() {
     <section className="Footer">
       <div className="allContent">
         <div className="Content">
-          <a className="ImagenSocial" href="https://github.com/JeysonGomez">
-            <img className="imgSocial" src="src/assets/GitHub.png" alt="" />
+          <a className="contentSocial" href="https://github.com/JeysonGomez">
+            <img
+              className="imgSocial"
+              src="src/assets/GitHub.png"
+              alt="GitHub"
+            />
             GitHub
           </a>
         </div>
 
         <div className="Content">
           <a
-            className="ImagenSocial"
+            className="contentSocial"
             href="https://www.linkedin.com/in/jeysongomez17/"
           >
             <img
