@@ -28,7 +28,7 @@
   display: grid;
 }
 
-.imgPs {
+.imageProyects {
   width: 95%;
   display: grid;
   grid-template-columns: 10rem 15rem 15rem;
@@ -48,14 +48,14 @@
   height: 160px;
 }
 
-.text2 {
+.tituloProyect {
   display: flex;
   margin-left: 35px;
   align-items: center;
   color: #fff;
 }
 
-.descripcionP {
+.descripcionProyect {
   width: 100%;
   display: flex;
   justify-content: start;
@@ -78,7 +78,7 @@
   }
 }
 
-.imgPs img {
+.imageProyects img {
   object-fit: cover;
   border-radius: 20px;
 }
