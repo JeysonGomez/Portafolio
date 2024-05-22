@@ -1,10 +1,10 @@
 # Perfil Técnico
 
-_Soy una persona proactiva la cual me gusta aprender muchas cosas, una de ellas es la programación o desarrollo de aplicaciones.También me gusta tambien trabajar en equipo, me gusta realizar proyectos en el cual pueda desempeñar mis cualidades y tambien aprender más, tanto de los proyectos como de mis compañeros._
+_Soy una persona proactiva la cual me gusta aprender muchas cosas, una de ellas es la programación o desarrollo de aplicaciones. También me gusta trabajar en equipo, me gusta realizar proyectos en el cual pueda desempeñar mis cualidades y aprender más, tanto de los proyectos, como de mis compañeros._
 
 # Cómo Sigo Aprendiendo
 
-_Busco para aprender mediante videos de Youtube, o informacion en internet que me dé varias ideas para realizar lo que estoy buscando.De igual forma sigo a creadores de contenido en desarrollo como:_
+_Busco para aprender mediante videos de YouTube, o información en internet que me dé varias ideas para realizar lo que estoy buscando. De igual forma sigo a creadores de contenido en desarrollo como:_
 
 - [HolaMundo](https://www.youtube.com/@HolaMundoDev)
 - [CodeGym](https://www.youtube.com/@codegym1714)
@@ -12,9 +12,9 @@ _Busco para aprender mediante videos de Youtube, o informacion en internet que m
 - [CodeReview](https://www.youtube.com/@codereview_)
 - [Brais Moure](https://www.youtube.com/@mouredev)
 
-## Paginas como
+## Páginas como
 
-- [Boostrap](https://getbootstrap.com/)
+- [Bootstrap](https://getbootstrap.com/)
 - [MDM Web Docs](https://developer.mozilla.org/en-US/s)
 - [W3Schools](https://www.w3schools.com/)
 
@@ -22,15 +22,15 @@ _Entre otras más que me ayuden a implementar nuevas funcionalidades en los proy
 
 # Realización del Proyecto
 
-_Este proyecto es mi portafolio o CV, en el cual muestro los proyectos realizados anteriormente y mis habilidades.El proyecto lo realicé en la biblioteca de React.js Vite, y contiene un:_
+_Este proyecto es mi portafolio o CV, en el cual muestro los proyectos realizados anteriormente y mis habilidades. El proyecto lo realicé en la biblioteca de React.js Vite, y contiene un:_
 
 - NavHeader
 
-_Que es la parte de navegación, la cual cuenta con 4 botones Inicio, Proyectos, Sobre Mi, Contacto cada botón te dirige a la sección correspondiente._
+_Que es la parte de navegación, la cual cuenta con 4 botones Inicio, Proyectos, Sobre Mí, Contacto, cada botón te dirige a la sección correspondiente._
 
 - Inicio
 
-_Muestra el titulo de mi especialidad, una imgen aleatoria y un boton que dirige a los proyectos que he realizado._
+_Muestra el título de mi especialidad, una imagen aleatoria y un botón que dirige a los proyectos que he realizado._
 
 - About Me
 
@@ -38,15 +38,15 @@ _Comparto mi foto de perfil y una descripción de mis intereses, mis habilidades
 
 - Mis Habilidades
 
-_Aquí muestro mis habilidades laborales o las tecnologias en las que e realizado mis proyectos._
+_Aquí muestro mis habilidades laborales o las tecnologías en las que he realizado mis proyectos._
 
 - Mis Proyectos
 
-_Aquí muestro un poco los trabajos personales que e realizado y con diferentes tecnologias como React, SASS, Boostrap y varias mas._
+_Aquí muestro un poco los trabajos personales que he realizado y con diferentes tecnologías como React, SASS, Bootstrap y varias más._
 
 - SocialNetworks
 
-_En socialnetworks muestra una barra lateral derecha las cuales muestra mis redes sociales o de trabajo las cuales en el momento son gitHub y linkedin._
+_En socialnetworks muestra una barra lateral derecha, las cuales muestra mis redes sociales o de trabajo, las cuales en el momento son GitHub y LinkedIn._
 
 - Footer
 
@@ -54,11 +54,11 @@ _En el footer muestro mis redes sociales y el Copyright._
 
 # Componentes o Mejoras para el Proyecto
 
-_Organizaría los componente, pondría algo como tipo carrucel al apartado de mis habilidades, y en los proyectos haría como una reorganización del proyecto._
+_Organizaría los componentes, pondría algo como tipo Carrusel al apartado de mis habilidades, y en los proyectos haría como una reorganización del proyecto._
 
-- Organizacion Componentes
+- Organización Componentes
 - Ajustar Css
-- Ocultar imagenes en proyectos
+- Ocultar imágenes en proyectos
 
 # Mis Habilidades
 
