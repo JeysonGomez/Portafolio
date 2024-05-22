@@ -3,33 +3,33 @@ import "./AboutMe.css";
 
 function AboutMe() {
   return (
-    <article className="AboutContent bg1">
-      <div className="subAbou">
+    <article className="generalContent bg1">
+      <div className="subAbout">
         <div className="imgAbout">
-          <img src="src/assets/Fondo.avif" alt="" />
+          <img src="src/assets/Fondo.avif" alt="Presentacion" />
         </div>
 
         <div className="content-aboutMe">
           <h2>Sobre Mi</h2>
           <p>
-            Que tal me presento soy Jeyson Gomez, un apasionado desarrollador
-            web Full Stack. <br /> Disfruto trabajar en equipo, aprender
-            constantemente y enfrentar nuevos desafíos. <br /> Me entusiasma
-            colaborar en nuevos proyectos. Poseo una mente creativa e
-            innovadora, y tengo la capacidad de aprender rápidamente. <br />
-            Siempre estoy buscando nuevas formas de abordar desafíos y puedo
-            asimilar conocimientos de manera ágil. <br /> Soy una persona
-            empática y entusiasta, poseo habilidades centradas en el trabajo en
-            equipo, comunicación asertiva, resolución de problemas,
-            responsabilidad y proactividad. <br /> Disfruto aprendiendo de los
-            demás y superándome continuamente. ¡Contáctame para saber cómo puedo
-            contribuir a tu próximo proyecto!.
+            Que tal me presento soy Jeyson Gómez, un apasionado desarrollador
+            web Full Stack. <br /> Disfruto, trabajar en equipo, aprender
+            constantemente y enfrentar nuevos desafíos.
+            <br /> Me entusiasma colaborar en nuevos proyectos. Poseo una mente
+            creativa he innovadora, y tengo la capacidad de aprender
+            rápidamente. <br /> Siempre estoy buscando nuevas formas de abordar
+            desafíos y puedo asimilar conocimientos de manera ágil. <br />
+            Soy una persona empática y entusiasta, poseo habilidades centradas
+            en el trabajo en equipo, comunicación asertiva, resolución de
+            problemas, responsabilidad y proactividad. <br /> Disfruto
+            aprendiendo de los demás y superándome continuamente. ¡Contáctame
+            para saber cómo puedo contribuir a tu próximo proyecto!.
           </p>
 
-          <div className="btoAbouts">
-            <button className="btoHere">Here Me</button>
-            <button className="btoResume">
-              <span>Resume</span>
+          <div className="btnAbouts">
+            <button className="btngeneral">Contactame</button>
+            <button className="btngeneral">
+              <span>Proyectos</span>
             </button>
           </div>
         </div>
