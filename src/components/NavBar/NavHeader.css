@@ -1,10 +1,7 @@
-<<<<<<< HEAD
 .NavContent {
   border-radius: 0px 0px 10px 10px;
 }
 
-=======
->>>>>>> e0a1d9d631c9d3b35b9a534125a2ed1e89e955ec
 .navHeader {
   width: 100%;
   max-width: 2000px;
@@ -13,10 +10,6 @@
   display: flex;
   align-items: center;
   justify-content: space-around;
-<<<<<<< HEAD
-=======
-  padding-top: 10px;
->>>>>>> e0a1d9d631c9d3b35b9a534125a2ed1e89e955ec
 }
 
 .navHeader h1 {
