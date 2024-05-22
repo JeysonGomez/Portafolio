@@ -19,7 +19,11 @@ function NavHeader() {
             <button className="btnHeader">Sobre Mi</button>
           </li>
           <li>
+<<<<<<< HEAD
             <button className="btnHeaders">Contacto</button>
+=======
+            <button className="btnHeader">Contacto</button>
+>>>>>>> e0a1d9d631c9d3b35b9a534125a2ed1e89e955ec
           </li>
         </ul>
       </nav>
