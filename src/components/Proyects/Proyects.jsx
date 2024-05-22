@@ -15,10 +15,10 @@ function Proyects() {
               src="src/assets/Proyectos/Calculadora.png"
               alt=""
             />
-            <h2 className="tituloProyect">Calculadora :</h2>
+            <h2 className="tituloProyect">Proyecto Calculadora :</h2>
             <p className="descripcionProyect">
-              Pagina desarrollada para realizar tipo de calculos como sumas,
-              restas, Multiplicacion, divison, con una interfas sencilla y muy
+              Página desarrollada para realizar tipo de cálculos como sumas,
+              restas, Multiplicación, división, con una interfaz sencilla y muy
               sencilla de utilizar.
             </p>
           </div>
@@ -28,9 +28,9 @@ function Proyects() {
               src="src/assets/Proyectos/Manage.png"
               alt=""
             />
-            <h2 className="tituloProyect">Mana Proyect :</h2>
+            <h2 className="tituloProyect">Proyecto Mana :</h2>
             <p className="descripcionProyect">
-              Proyecto realizado en HTML y CSS en practicas estudiantiles para
+              Proyecto realizado en HTML y CSS en prácticas estudiantiles para
               reforzar lo aprendido durante el tiempo de estudio
             </p>
           </div>
@@ -40,11 +40,12 @@ function Proyects() {
               src="src/assets/Proyectos/PetShop.png"
               alt=""
             />
-            <h2 className="tituloProyect">PetShop Proyect :</h2>
+            <h2 className="tituloProyect">Proyecto PetShop :</h2>
             <p className="descripcionProyect">
-              Pagina desarrollada para tu destino en línea para todo lo
-              relacionado con tus amigos peludos de cuatro patas! entendemos que
-              tus mascotas son más que solo animales; son parte de tu familia.
+              Página desarrollada para tu destino en línea para todo lo
+              ¡Relacionado con tus amigos peludos de cuatro patas! Entendemos
+              que tus mascotas son más que solo animales; son parte de tu
+              familia.
             </p>
           </div>
           <div className="imageProyects">
@@ -53,11 +54,11 @@ function Proyects() {
               src="src/assets/Proyectos/Sportit.png"
               alt=""
             />
-            <h2 className="tituloProyect">SportIt Proyect :</h2>
+            <h2 className="tituloProyect">Proyecto SportIt :</h2>
             <p className="descripcionProyect">
-              Pagina desarrollada para todo lo relacionado con el mundo del
+              Página desarrollada para todo lo relacionado con el mundo del
               deporte. Ya seas un fanático apasionado, un atleta dedicado o
-              simplemente estés buscando mantenerte al día con las últimas
+              simplemente, estés buscando mantenerte al día con las últimas
               noticias y eventos deportivos
             </p>
           </div>
@@ -69,7 +70,7 @@ function Proyects() {
             />
             <h2 className="tituloProyect">Proyecto :</h2>
             <p className="descripcionProyect">
-              Proyecto realizado en HTML y CSS en practicas estudiantiles para
+              Proyecto realizado en HTML y CSS en prácticas estudiantiles para
               reforzar lo aprendido durante el tiempo de estudio
             </p>
           </div>
@@ -81,7 +82,7 @@ function Proyects() {
             />
             <h2 className="tituloProyect">Proyecto :</h2>
             <p className="descripcionProyect">
-              Proyecto realizado en HTML y CSS en practicas estudiantiles para
+              Proyecto realizado en HTML y CSS en prácticas estudiantiles para
               reforzar lo aprendido durante el tiempo de estudio
             </p>
           </div>
@@ -91,10 +92,10 @@ function Proyects() {
               src="src/assets/Proyectos/DOREMI.png"
               alt=""
             />
-            <h2 className="tituloProyect">DoReMi Proyect :</h2>
+            <h2 className="tituloProyect">Proyecto DoReMi :</h2>
             <p className="descripcionProyect">
-              Pagina desarrolada con el equipo de estudio, para explorar el
-              maravilloso mundo de la música! creemos que la música es más que
+              Página desarrollada con el equipo de estudio, para explorar él
+              maravilloso mundo de la música! Creemos que la música es más que
               solo sonido; es una forma de vida, una expresión de emociones y
               una conexión universal que une a personas de todas las edades y
               culturas.
