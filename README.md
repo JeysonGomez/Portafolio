@@ -59,6 +59,7 @@ _Organizaría los componentes, pondría algo como tipo Carrusel al apartado de m
 - Organización Componentes
 - Ajustar Css
 - Ocultar imágenes en proyectos
+- Mejora en codigo
 
 # Mis Habilidades
 
