@@ -29,6 +29,10 @@
   background: #323232;
 }
 
+.allContent {
+  border-radius: 10px;
+}
+
 .imgSocial {
   width: 35px;
   padding-bottom: 10px;
