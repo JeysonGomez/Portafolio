@@ -19,7 +19,7 @@ function NavHeader() {
             <button className="btnHeader">Sobre Mi</button>
           </li>
           <li>
-            <button className="btnHeader">Contacto</button>
+            <button className="btnHeaders">Contacto</button>
           </li>
         </ul>
       </nav>
