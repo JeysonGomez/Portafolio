@@ -7,7 +7,7 @@
   background-color: var(--bg-color);
 }
 
-.proyectsContent {
+.ProyectsContent {
   width: 100%;
   text-align: center;
   justify-content: center;
@@ -42,7 +42,7 @@
 .PetShop,
 .Manage,
 .Sportit,
-.Proyecto {
+.Proyecto1 {
   max-width: 200px;
   height: 160px;
 }

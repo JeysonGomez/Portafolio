@@ -3,7 +3,7 @@ import "./Proyects.css";
 
 function Proyects() {
   return (
-    <section className="generalContent b1">
+    <section className="ProyectsContent b1">
       <div className="proyectsContent">
         <div className="infoProyects">
           <h1>Mis Proyectos</h1>
@@ -76,7 +76,7 @@ function Proyects() {
           </div>
           <div className="imageProyects">
             <img
-              className="Proyecto2"
+              className="Proyecto1"
               src="src/assets/Proyectos/Proyecto2.png"
               alt="Proyecto"
             />
