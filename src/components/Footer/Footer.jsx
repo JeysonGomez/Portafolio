@@ -3,7 +3,7 @@ import "./Footer.css";
 
 function Footer() {
   return (
-    <section className="Footer">
+    <section className="generalContent bg1">
       <div className="allContent">
         <div className="Content">
           <a className="contentSocial" href="https://github.com/JeysonGomez">
