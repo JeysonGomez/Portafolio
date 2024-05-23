@@ -3,7 +3,7 @@ import "./NavHeader.css";
 
 function NavHeader() {
   return (
-    <header className="NavContent bg1">
+    <header className="generalContent bg1">
       <nav className="navHeader">
         <div>
           <h1>Desarrollador</h1>
@@ -19,7 +19,7 @@ function NavHeader() {
             <button className="btnHeader">Sobre Mi</button>
           </li>
           <li>
-            <button className="btnHeaders">Contacto</button>
+            <button className="btnHeader">Contacto</button>
           </li>
         </ul>
       </nav>

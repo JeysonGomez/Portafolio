@@ -1,10 +1,9 @@
-.NavContent {
-  border-radius: 0px 0px 10px 10px;
+.generalContent {
+  border-radius: 0px 0px 20px 20px;
 }
 
 .navHeader {
   width: 100%;
-  max-width: 2000px;
   height: 100px;
   color: #fff;
   display: flex;
