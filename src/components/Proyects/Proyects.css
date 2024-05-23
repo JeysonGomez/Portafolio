@@ -42,20 +42,19 @@
 .PetShop,
 .Manage,
 .Sportit,
-.Proyecto1,
-.Proyecto2 {
+.Proyecto {
   max-width: 200px;
   height: 160px;
 }
 
-.tituloProyect {
+.titleProyect {
   display: flex;
   margin-left: 35px;
   align-items: center;
   color: #fff;
 }
 
-.descripcionProyect {
+.descriptionProyect {
   width: 100%;
   display: flex;
   justify-content: start;

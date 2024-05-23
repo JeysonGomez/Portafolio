@@ -13,10 +13,10 @@ function Proyects() {
             <img
               className="Calculadora"
               src="src/assets/Proyectos/Calculadora.png"
-              alt=""
+              alt="Calculadora"
             />
-            <h2 className="tituloProyect">Proyecto Calculadora :</h2>
-            <p className="descripcionProyect">
+            <h2 className="titleProyect">Proyecto Calculadora :</h2>
+            <p className="descriptionProyect">
               Página desarrollada para realizar tipo de cálculos como sumas,
               restas, Multiplicación, división, con una interfaz sencilla y muy
               sencilla de utilizar.
@@ -26,10 +26,10 @@ function Proyects() {
             <img
               className="Manage"
               src="src/assets/Proyectos/Manage.png"
-              alt=""
+              alt="Manage"
             />
-            <h2 className="tituloProyect">Proyecto Mana :</h2>
-            <p className="descripcionProyect">
+            <h2 className="titleProyect">Proyecto Manage :</h2>
+            <p className="descriptionProyect">
               Proyecto realizado en HTML y CSS en prácticas estudiantiles para
               reforzar lo aprendido durante el tiempo de estudio
             </p>
@@ -38,10 +38,10 @@ function Proyects() {
             <img
               className="PetShop"
               src="src/assets/Proyectos/PetShop.png"
-              alt=""
+              alt="Petshop"
             />
-            <h2 className="tituloProyect">Proyecto PetShop :</h2>
-            <p className="descripcionProyect">
+            <h2 className="titleProyect">Proyecto PetShop :</h2>
+            <p className="descriptionProyect">
               Página desarrollada para tu destino en línea para todo lo
               ¡Relacionado con tus amigos peludos de cuatro patas! Entendemos
               que tus mascotas son más que solo animales; son parte de tu
@@ -52,10 +52,10 @@ function Proyects() {
             <img
               className="Sportit"
               src="src/assets/Proyectos/Sportit.png"
-              alt=""
+              alt="SportIt"
             />
-            <h2 className="tituloProyect">Proyecto SportIt :</h2>
-            <p className="descripcionProyect">
+            <h2 className="titleProyect">Proyecto SportIt :</h2>
+            <p className="descriptionProyect">
               Página desarrollada para todo lo relacionado con el mundo del
               deporte. Ya seas un fanático apasionado, un atleta dedicado o
               simplemente, estés buscando mantenerte al día con las últimas
@@ -66,10 +66,10 @@ function Proyects() {
             <img
               className="Proyecto1"
               src="src/assets/Proyectos/Proyecto1.png"
-              alt=""
+              alt="Proyecto"
             />
-            <h2 className="tituloProyect">Proyecto :</h2>
-            <p className="descripcionProyect">
+            <h2 className="titleProyect">Proyecto :</h2>
+            <p className="descriptionProyect">
               Proyecto realizado en HTML y CSS en prácticas estudiantiles para
               reforzar lo aprendido durante el tiempo de estudio
             </p>
@@ -78,10 +78,10 @@ function Proyects() {
             <img
               className="Proyecto2"
               src="src/assets/Proyectos/Proyecto2.png"
-              alt=""
+              alt="Proyecto"
             />
-            <h2 className="tituloProyect">Proyecto :</h2>
-            <p className="descripcionProyect">
+            <h2 className="titleProyect">Proyecto :</h2>
+            <p className="descriptionProyect">
               Proyecto realizado en HTML y CSS en prácticas estudiantiles para
               reforzar lo aprendido durante el tiempo de estudio
             </p>
@@ -90,10 +90,10 @@ function Proyects() {
             <img
               className="Manage"
               src="src/assets/Proyectos/DOREMI.png"
-              alt=""
+              alt="DoReMi"
             />
-            <h2 className="tituloProyect">Proyecto DoReMi :</h2>
-            <p className="descripcionProyect">
+            <h2 className="titleProyect">Proyecto DoReMi :</h2>
+            <p className="descriptionProyect">
               Página desarrollada con el equipo de estudio, para explorar él
               maravilloso mundo de la música! Creemos que la música es más que
               solo sonido; es una forma de vida, una expresión de emociones y
