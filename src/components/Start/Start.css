@@ -44,7 +44,7 @@
   --curve-size: 0.5em;
   --blur: 30px;
   --bg: var(--bg-color);
-  --color: #afffff;
+  --color: #2c6969;
   color: var(--color);
   position: relative;
   isolation: isolate;
