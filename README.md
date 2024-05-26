@@ -116,3 +116,11 @@ _Organizaría los componentes, pondría algo como tipo Carrusel al apartado de m
 # ¿Que es Markdown?
 
 _Es un lenguaje demarcado de texto plano que utiliza caracteres especiales como #, /, \_, +, entre otros. Es conocido y accesible en todo tipo de teclados. Sirve para documentar proyectos, y se puede transcribir a otros tipos de lenguajes._
+
+# ¿Qué es GitFlow?
+
+_Es un modelo para la creación de ramas, función y ramas principales, son de mayor duración, la cual tiene dos ramas principales que son la rama main, la rama develop y ramas secundarias o de característica, también es de desarrollo colaborativo_
+
+# ¿Qué es Code Review?
+
+_Es el proceso en el cual un desarrollador mira el código creado por otro desarrollado y se encarga de mejorar el código, detectar errores y se cumplan la codificación y las mejoras establecidas por el equipo de trabajo_
