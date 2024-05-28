@@ -20,15 +20,14 @@
   align-items: center;
 }
 
-.bg1 {
+.allbackGround {
   background-color: var(--bg-color);
 }
 
-/* Botonesge */
+/* Botones generales */
 
-.btngeneral {
+.btnGeneral {
   text-decoration: none;
-
   position: relative;
   border: none;
   font-size: 14px;
@@ -46,12 +45,12 @@
   margin-right: 20px;
 }
 
-.btngeneral:hover {
+.btnGeneral:hover {
   animation: ani 8s linear infinite;
   border: none;
 }
 
-.btngeneral::before {
+.btnGeneral::before {
   content: "";
   position: absolute;
   top: -5px;
@@ -65,10 +64,10 @@
   transition: 1s;
 }
 
-.btngeneral:hover::before {
+.btnGeneral:hover::before {
   filter: blur(20px);
 }
 
-.btngeneral:active {
+.btnGeneral:active {
   transform: scale(0.9);
 }
