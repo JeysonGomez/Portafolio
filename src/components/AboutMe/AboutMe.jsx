@@ -3,7 +3,7 @@ import "./AboutMe.css";
 
 function AboutMe() {
   return (
-    <article className="generalContent allbackGround">
+    <article className="generalContent allBackground">
       <div className="subAbout">
         <div className="imgAbout">
           <img src="src/assets/Fondo.avif" alt="Presentacion" />
