@@ -66,10 +66,12 @@
   transition: color 250ms;
 }
 
-.btnStart::after .btnStart::before {
+.btnStart::before,
+.btnStart::after {
   content: "";
   position: absolute;
   inset: 0;
+  z-index: -1;
 }
 
 .btnStart::before {
@@ -83,41 +85,40 @@
   background: var(--bg);
   z-index: -1;
   clip-path: polygon(
-    /*top-left*/ var(--border-width)
+    /* top-left */ var(--border-width)
       calc(var(--curve-size) + var(--border-width) * 0.5),
-    calc(var(--curve-size) + ver(--border-width) * 0.5) var(--border-width),
-    /*top-right*/ calc(100% - var(--border-width)) var(--border-width),
+    calc(var(--curve-size) + var(--border-width) * 0.5) var(--border-width),
+    /* top-right */ calc(100% - var(--border-width)) var(--border-width),
     calc(100% - var(--border-width))
-      calc(100% - calc(var(--curve-size) + var(--border-width) * 0.5)),
-    /*botom-rigt*/
-      calc(100% - calc(var(--curve-size) + var(--border-width) * 0.5))
+      calc(100% - (var(--curve-size) + var(--border-width) * 0.5)),
+    /* bottom-right */
+      calc(100% - (var(--curve-size) + var(--border-width) * 0.5))
       calc(100% - var(--border-width)),
-    /*botom right 2*/ var(--border-width) calc(100% - var(--border-width))
+    /* bottom-right 2 */ var(--border-width) calc(100% - var(--border-width))
   );
   transition: clip-path 500ms;
 }
 
 .btnStart:where(:hover, :focus)::after {
   clip-path: polygon(
-    /*top-left*/ calc(100% - var(--border-color))
+    /* top-left */ calc(100% - var(--border-width))
       calc(100% - calc(var(--curve-size) + var(--border-width) * 0.5)),
-    calc(100% - var(--border-width)) var(--border-width),
-    /*top-right*/ calc(100% - var(--border-width)) var(--border-width),
+    var(--border-width) var(--border-width),
+    /* top-right */ calc(100% - var(--border-width)) var(--border-width),
     calc(100% - var(--border-width))
       calc(100% - calc(var(--curve-size) + var(--border-width) * 0.5)),
-    /*botom-right*/
+    /* bottom-right */
       calc(100% - calc(var(--curve-size) + var(--border-width) * 0.5))
       calc(100% - var(--border-width)),
-    /*botom-right 2*/
+    /* bottom-right 2 */
       calc(100% - calc(var(--curve-size) + var(--border-width) * 0.5))
       calc(100% - var(--border-width))
   );
-
-  transition: 200ms;
+  transition: clip-path 200ms;
 }
 
 .btnStart:where(:hover, :focus) {
-  color: #070505;
+  color: rgb(1, 20, 73);
 }
 @keyframes move-bg7234 {
   0% {

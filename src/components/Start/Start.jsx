@@ -3,7 +3,7 @@ import "./Start.css";
 
 function Start() {
   return (
-    <section className="generalContent bg1">
+    <section className="generalContent allBackground">
       <div className="StartContent">
         <div className="infoStart">
           <h1>
