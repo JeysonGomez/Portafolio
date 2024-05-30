@@ -7,13 +7,13 @@
   background-color: var(--bg-color);
 }
 
-.ProyectsContent {
+.ProjectsContent {
   width: 100%;
   text-align: center;
   justify-content: center;
 }
 
-.infoProyects h1 {
+.infoProjects h1 {
   font-size: 50px;
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
@@ -23,12 +23,12 @@
   font-family: "Times New Roman", Times, serif;
 }
 
-.imgProyects {
+.imgProjects {
   width: 100%;
   display: grid;
 }
 
-.imageProyects {
+.imageProjects {
   width: 95%;
   display: grid;
   grid-template-columns: 10rem 15rem 15rem;
@@ -47,26 +47,26 @@
   height: 160px;
 }
 
-.titleProyect {
+.titleProject {
   display: flex;
   margin-left: 35px;
   align-items: center;
   color: #fff;
 }
 
-.descriptionProyect {
+.descriptionProject {
   width: 100%;
   display: flex;
   justify-content: start;
   color: #fff;
 }
 
-.imageProyects img {
+.imageProjects img {
   object-fit: cover;
   border-radius: 20px;
 }
 
-.imgProyects {
+.imgProjects {
   position: relative;
   width: 200px;
   height: 1400px;
