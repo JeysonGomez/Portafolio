@@ -1,4 +1,4 @@
-.infoSkills h1 {
+.informationSkills h1 {
   font-size: 50px;
   text-align: center;
   font-family: "Times New Roman", Times, serif;
@@ -42,7 +42,7 @@
   align-items: center;
 }
 
-.titleSkills {
+.skillsTitle {
   display: flex;
   margin-top: 20px;
   width: 100%;
