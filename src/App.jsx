@@ -1,11 +1,11 @@
 import "./App.css";
 
-import Proyects from "./components/Proyects/Proyects";
+import Projects from "./components/Projects/Projects";
 
 function App() {
   return (
     <>
-      <Proyects />
+      <Projects />
     </>
   );
 }

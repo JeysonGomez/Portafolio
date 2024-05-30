@@ -13,7 +13,7 @@ function Projects() {
             <img
               className="Calculadora"
               src="src/assets/Proyectos/Calculadora.png"
-              alt="Calculadora"
+              alt="Proyecto de una Calculadora la cual funciona para realizar operaciones matematicas sencillas"
             />
             <h2 className="titleProject">Proyecto Calculadora :</h2>
             <p className="descriptionProject">
@@ -26,7 +26,7 @@ function Projects() {
             <img
               className="Manage"
               src="src/assets/Proyectos/Manage.png"
-              alt="Manage"
+              alt="Proyecto Pagina Manage web"
             />
             <h2 className="titleProject">Proyecto Manage :</h2>
             <p className="descriptionProject">
@@ -38,7 +38,7 @@ function Projects() {
             <img
               className="PetShop"
               src="src/assets/Proyectos/PetShop.png"
-              alt="Petshop"
+              alt="Proyecto pagina Petshop web, su funcionalidad es realizar pedidos de alimentos y objetos de entretenimiento a tus mascotas"
             />
             <h2 className="titleProject">Proyecto PetShop :</h2>
             <p className="descriptionProject">
@@ -52,7 +52,7 @@ function Projects() {
             <img
               className="Sportit"
               src="src/assets/Proyectos/Sportit.png"
-              alt="SportIt"
+              alt="Proyecto pagina de deportes web el cual muestra detalles de los deportes"
             />
             <h2 className="titleProject">Proyecto SportIt :</h2>
             <p className="descriptionProject">
@@ -66,9 +66,9 @@ function Projects() {
             <img
               className="Proyecto1"
               src="src/assets/Proyectos/Proyecto1.png"
-              alt="Proyecto"
+              alt="Pagina realizada en proyecto de estudio"
             />
-            <h2 className="titleProject">Proyecto :</h2>
+            <h2 className="titleProject">Proyecto Estudiantil :</h2>
             <p className="descriptionProject">
               Proyecto realizado en HTML y CSS en prácticas estudiantiles para
               reforzar lo aprendido durante el tiempo de estudio
@@ -78,9 +78,9 @@ function Projects() {
             <img
               className="Proyecto1"
               src="src/assets/Proyectos/Proyecto2.png"
-              alt="Proyecto"
+              alt="Pagina realizada en proyecto de estudio"
             />
-            <h2 className="titleProject">Proyecto :</h2>
+            <h2 className="titleProject">Proyecto Estudiantil :</h2>
             <p className="descriptionProject">
               Proyecto realizado en HTML y CSS en prácticas estudiantiles para
               reforzar lo aprendido durante el tiempo de estudio
@@ -88,9 +88,9 @@ function Projects() {
           </div>
           <div className="imageProjects">
             <img
-              className="Manage"
+              className="DoReMi"
               src="src/assets/Proyectos/DOREMI.png"
-              alt="DoReMi"
+              alt="Pagina diseñada para la solicitud de instrumentos musicales"
             />
             <h2 className="titleProject">Proyecto DoReMi :</h2>
             <p className="descriptionProject">
