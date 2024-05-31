@@ -13,7 +13,7 @@ function Start() {
           <button className="btnStart">Ir a Proyectos</button>
         </div>
         <div className="imgStart">
-          <img src="src/assets/Fondo.avif" alt="" />
+          <img src="src/assets/Fondo.avif" alt="imagen de inicio" />
         </div>
       </div>
     </section>
