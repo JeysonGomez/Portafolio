@@ -6,7 +6,7 @@ function AboutMe() {
     <article className="generalContent allBackground">
       <div className="subAbout">
         <div className="imgAbout">
-          <img src="src/assets/Fondo.avif" alt="Presentacion" />
+          <img src="src/assets/Fondo.avif" alt="Foto de mi perfil" />
         </div>
 
         <div className="content-AboutMe">
