@@ -21,7 +21,7 @@
 
 /*Muestra el contenido de la imagen y Links*/
 
-.Content {
+.content {
   display: grid;
   grid-auto-columns: 5em;
   text-align: center;

@@ -5,7 +5,7 @@ function Footer() {
   return (
     <section className="generalContent allBackground">
       <div className="allContent">
-        <div className="Content">
+        <div className="content">
           <a className="contentSocial" href="https://github.com/JeysonGomez">
             <img
               className="imgSocial"
@@ -16,7 +16,7 @@ function Footer() {
           </a>
         </div>
 
-        <div className="Content">
+        <div className="content">
           <a
             className="contentSocial"
             href="https://www.linkedin.com/in/jeysongomez17/"
