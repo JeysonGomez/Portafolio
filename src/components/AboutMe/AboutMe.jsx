@@ -9,7 +9,7 @@ function AboutMe() {
           <img src="src/assets/Fondo.avif" alt="Foto de mi perfil" />
         </div>
 
-        <div className="content-AboutMe">
+        <div className="contentAboutMe">
           <h2>Sobre Mi</h2>
           <p>
             Hola, soy Jeyson Gómez, un apasionado desarrollador web Full Stack.
@@ -26,10 +26,8 @@ function AboutMe() {
           </p>
 
           <div className="btnAbouts">
+            <button className="btnGeneral">Contactame</button>
             <button className="btnGeneral">Proyectos</button>
-            <button className="btnGeneral">
-              <span>Contactame</span>
-            </button>
           </div>
         </div>
       </div>
