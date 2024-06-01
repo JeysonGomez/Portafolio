@@ -26,7 +26,7 @@ function AboutMe() {
           </p>
 
           <div className="btnAbouts">
-            <button className="btnGeneral">Contactame</button>
+            <button className="btnGeneral">Contáctame</button>
             <button className="btnGeneral">Proyectos</button>
           </div>
         </div>
