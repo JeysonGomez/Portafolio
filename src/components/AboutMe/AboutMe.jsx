@@ -10,7 +10,7 @@ function AboutMe() {
         </div>
 
         <div className="contentAboutMe">
-          <h2>Sobre Mi</h2>
+          <h2>Sobre Mí</h2>
           <p>
             Hola, soy Jeyson Gómez, un apasionado desarrollador web Full Stack.
             Disfruto trabajar en equipo, aprender constantemente y enfrentar
