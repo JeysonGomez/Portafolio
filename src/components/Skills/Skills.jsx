@@ -19,22 +19,34 @@ function Skills() {
             <p className="skillsTitle">GitHub</p>
           </div>
           <div>
-            <img className="Html" src="src/assets/Html.png" alt="Imagen HTML" />
+            <img
+              className="Html"
+              src="src/assets/Html.png"
+              alt="Imagen lenguaje demarcado HTML"
+            />
             <p className="skillsTitle">HTML</p>
           </div>
           <div>
-            <img className="Css" src="src/assets/Css.png" alt="Imagen CSS" />
+            <img
+              className="Css"
+              src="src/assets/Css.png"
+              alt="Imagen lenguaje diseño grafico CSS"
+            />
             <p className="skillsTitle">CSS</p>
           </div>
           <div>
-            <img className="Java" src="src/assets/Java.png" alt="Imagen Java" />
+            <img
+              className="Java"
+              src="src/assets/Java.png"
+              alt="Logo de lenguaje Java"
+            />
             <p className="skillsTitle">JAVA</p>
           </div>
           <div>
             <img
               className="Js"
               src="src/assets/Javascript.png"
-              alt="Imagen JavaScript"
+              alt="Logo de leguaje JavaScript"
             />
             <p className="skillsTitle">JAVASCRIPT</p>
           </div>
@@ -42,7 +54,7 @@ function Skills() {
             <img
               className="React"
               src="src/assets/React.png"
-              alt=" Imagen React.Js"
+              alt="Logo de biblioteca React.Js"
             />
             <p className="skillsTitle">REACT JS</p>
           </div>
@@ -54,7 +66,7 @@ function Skills() {
             <img
               className="Docker"
               src="src/assets/Docker.png"
-              alt="Imagen Docker"
+              alt="Logo sistema operativo Docker"
             />
             <p className="skillsTitle">DOCKER</p>
           </div>
@@ -62,7 +74,7 @@ function Skills() {
             <img
               className="Nodejs"
               src="src/assets/NodeJS.png"
-              alt="Imagen Node js"
+              alt="Logo de Entorno Node js"
             />
             <p className="skillsTitle">NODE JS</p>
           </div>
@@ -70,7 +82,7 @@ function Skills() {
             <img
               className="Mysql"
               src="src/assets/MySQL.png"
-              alt="Imagen My SQL"
+              alt="Imagen de gestion My SQL"
             />
             <p className="skillsTitle">MY SQL</p>
           </div>
@@ -78,7 +90,7 @@ function Skills() {
             <img
               className="Kotlin"
               src="src/assets/Kotlin.png"
-              alt="Imagen Kotlin"
+              alt="Logo de lenguaje Kotlin"
             />
             <p className="skillsTitle">KOTLIN</p>
           </div>
@@ -86,7 +98,7 @@ function Skills() {
             <img
               className="Figma"
               src="src/assets/figma.png"
-              alt="Imagen Figma"
+              alt="Editor de gráficos Figma"
             />
             <p className="skillsTitle">FIGMA</p>
           </div>
@@ -94,7 +106,7 @@ function Skills() {
             <img
               className="Trello"
               src="src/assets/trello.png"
-              alt="Imagen Trello"
+              alt="Software de proyectos Trello"
             />
             <p className="skillsTitle">TRELLO</p>
           </div>
@@ -102,7 +114,7 @@ function Skills() {
             <img
               className="Postman"
               src="src/assets/Postman.png"
-              alt="Postman"
+              alt="Herramienta de API Postman"
             />
             <p className="skillsTitle">POSTMAN</p>
           </div>

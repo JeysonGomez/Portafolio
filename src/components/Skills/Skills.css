@@ -31,15 +31,9 @@
 .Kotlin,
 .Figma,
 .Trello,
-.Postman,
-.Kotlin,
-.Figma {
+.Postman {
   max-width: 50px;
   max-height: 50px;
-  align-items: center;
-  justify-content: center;
-  text-align: center;
-  align-items: center;
 }
 
 .skillsTitle {
