@@ -1,11 +1,10 @@
 import "./App.css";
-
-import SocialNetworks from "./components/SocialNetworks/SocialNetWorks";
+import NavBar from "./components/NavBar/NavHeader";
 
 function App() {
   return (
     <>
-      <SocialNetworks />
+      <NavBar />
     </>
   );
 }
