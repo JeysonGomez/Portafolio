@@ -23,11 +23,6 @@
   font-family: "Times New Roman", Times, serif;
 }
 
-.imgProjects {
-  width: 100%;
-  display: grid;
-}
-
 .imageProjects {
   width: 95%;
   display: grid;
@@ -38,12 +33,12 @@
   padding-top: 20px;
 }
 
-.Calculadora,
-.PetShop,
-.Manage,
-.Sportit,
-.DoReMi,
-.Proyecto1 {
+.calculadora,
+.petShop,
+.manage,
+.sportit,
+.doReMi,
+.proyecto1 {
   max-width: 200px;
   height: 160px;
 }

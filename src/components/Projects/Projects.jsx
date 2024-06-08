@@ -5,13 +5,13 @@ function Projects() {
   return (
     <section className="projectContent allBackground">
       <div className="proyectosContent">
-        <div className="infoProyects">
+        <div className="infoProjects">
           <h1>Mis Proyectos</h1>
         </div>
-        <div className="imgProyects">
+        <div>
           <div className="imageProjects">
             <img
-              className="Calculadora"
+              className="calculadora"
               src="src/assets/Proyectos/Calculadora.png"
               alt="Imagen calculadora"
             />
@@ -24,7 +24,7 @@ function Projects() {
           </div>
           <div className="imageProjects">
             <img
-              className="Manage"
+              className="manage"
               src="src/assets/Proyectos/Manage.png"
               alt="Imagen Manage"
             />
@@ -36,7 +36,7 @@ function Projects() {
           </div>
           <div className="imageProjects">
             <img
-              className="PetShop"
+              className="petShop"
               src="src/assets/Proyectos/PetShop.png"
               alt="Imagen PetShop"
             />
@@ -50,7 +50,7 @@ function Projects() {
           </div>
           <div className="imageProjects">
             <img
-              className="Sportit"
+              className="sportit"
               src="src/assets/Proyectos/Sportit.png"
               alt="Imagen SportIt"
             />
@@ -64,7 +64,7 @@ function Projects() {
           </div>
           <div className="imageProjects">
             <img
-              className="Proyecto1"
+              className="proyecto1"
               src="src/assets/Proyectos/Proyecto1.png"
               alt="Imagen Proyecto estudiantil"
             />
@@ -76,7 +76,7 @@ function Projects() {
           </div>
           <div className="imageProjects">
             <img
-              className="Proyecto1"
+              className="proyecto1"
               src="src/assets/Proyectos/Proyecto2.png"
               alt="Imagen Proyecto estudiantil"
             />
@@ -88,7 +88,7 @@ function Projects() {
           </div>
           <div className="imageProjects">
             <img
-              className="Manage"
+              className="manage"
               src="src/assets/Proyectos/DOREMI.png"
               alt="Imagen DoReMi"
             />
