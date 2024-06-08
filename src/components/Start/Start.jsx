@@ -4,11 +4,11 @@ import "./Start.css";
 function Start() {
   return (
     <section className="generalContent allBackground">
-      <div className="StartContent">
+      <div className="startContent">
         <div className="infoStart">
           <h1>
             Full Stactk <br /> Software <br /> Developer
-            <span className="StartPoint"></span>
+            <span className="startPoint"></span>
           </h1>
           <button className="btnStart">Ir a Proyectos</button>
         </div>

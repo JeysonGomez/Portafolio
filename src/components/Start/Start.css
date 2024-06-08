@@ -1,4 +1,4 @@
-.StartContent {
+.startContent {
   display: flex;
   justify-content: space-around;
   align-items: center;
@@ -8,12 +8,12 @@
   color: #fff;
 }
 
-.StartContent h1 {
+.startContent h1 {
   font-weight: bold;
   font-size: 4em;
 }
 
-.StartPoint {
+.startPoint {
   display: inline-block;
   width: 13px;
   height: 13px;
@@ -26,7 +26,7 @@
   border-radius: 10px;
 }
 
-.StartContent p {
+.startContent p {
   color: #a8a8a8;
 }
 
