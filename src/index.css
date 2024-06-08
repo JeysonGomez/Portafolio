@@ -1,6 +1,6 @@
 :root {
-   --bg-color: #101630;
-  --web-color: #40B2D2;
+  --bg-color: #101630;
+  --web-color: #40b2d2;
 }
 
 * {
@@ -17,10 +17,10 @@
   width: 100%;
   display: flex;
   justify-content: center;
-  align-items: center;  
+  align-items: center;
 }
 
-.bg1 {
+.allBackground {
   background-color: var(--bg-color);
 }
 
@@ -28,10 +28,10 @@
 
 .bto2 {
   align-items: center;
-  background-image: linear-gradient(144deg, #AF40FF, #5B42F3 50%, #00DDEB);
+  background-image: linear-gradient(144deg, #af40ff, #5b42f3 50%, #00ddeb);
   border: 0;
   border-radius: 8px;
-  box-shadow: rgba(151, 65, 252, 0.2)0 15px 30px -5px;
+  box-shadow: rgba(151, 65, 252, 0.2) 0 15px 30px -5px;
   box-sizing: border-box;
   color: #ffffff;
   display: flex;
@@ -48,10 +48,11 @@
   touch-action: manipulation;
   white-space: nowrap;
   cursor: pointer;
-  transition: all .3s;
+  transition: all 0.3s;
 }
 
-.bto2:active, .bto2:hover {
+.bto2:active,
+.bto2:hover {
   outline: 0;
 }
 
@@ -105,7 +106,6 @@
   100% {
     background-position: 400%;
   }
-  
 }
 
 .bto1::before {

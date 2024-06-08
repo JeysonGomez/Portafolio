@@ -3,10 +3,10 @@ import "./NavHeader.css";
 
 function NavHeader() {
   return (
-    <header className="generalContent bg1">
+    <header className="generalContent allBackground">
       <nav className="navHeader">
         <div>
-          <h1>Desarrollador</h1>
+          <h1>Desarrolldor Web</h1>
         </div>
         <ul>
           <li>
