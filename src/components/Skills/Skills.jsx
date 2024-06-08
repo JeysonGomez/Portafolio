@@ -30,7 +30,7 @@ function Skills() {
             <img
               className="Css"
               src="src/assets/Css.png"
-              alt="Imagen lenguaje diseño grafico CSS"
+              alt="Imagen lenguaje diseñó gráfico CSS"
             />
             <p className="skillsTitle">CSS</p>
           </div>
@@ -46,7 +46,7 @@ function Skills() {
             <img
               className="Js"
               src="src/assets/Javascript.png"
-              alt="Logo de leguaje JavaScript"
+              alt="Logo de lenguaje JavaScript"
             />
             <p className="skillsTitle">JAVASCRIPT</p>
           </div>
@@ -74,7 +74,7 @@ function Skills() {
             <img
               className="Nodejs"
               src="src/assets/NodeJS.png"
-              alt="Logo de Entorno Node js"
+              alt="Logo de entorno Node js"
             />
             <p className="skillsTitle">NODE JS</p>
           </div>
@@ -106,7 +106,7 @@ function Skills() {
             <img
               className="Trello"
               src="src/assets/trello.png"
-              alt="Software de proyectos Trello"
+              alt="Herramienta para gestión de proyectos Trello"
             />
             <p className="skillsTitle">TRELLO</p>
           </div>
@@ -114,7 +114,7 @@ function Skills() {
             <img
               className="Postman"
               src="src/assets/Postman.png"
-              alt="Herramienta de API Postman"
+              alt="Herramienta construir API's"
             />
             <p className="skillsTitle">POSTMAN</p>
           </div>
