@@ -1,0 +1,12 @@
+.projectsContent {
+  width: 80%;
+}
+
+.slick-slide img {
+  width: 100%;
+  height: auto;
+}
+
+.slick-dots li button:before {
+  color: #000;
+}

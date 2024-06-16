@@ -1,4 +1,4 @@
-.inicioContent {
+.startContent {
   display: flex;
   justify-content: space-around;
   align-items: center;
@@ -8,12 +8,12 @@
   color: #fff;
 }
 
-.inicioContent h1 {
+.startContent h1 {
   font-weight: bold;
   font-size: 4em;
 }
 
-.inicioPoint {
+.startPoint {
   display: inline-block;
   width: 13px;
   height: 13px;
@@ -22,21 +22,21 @@
   border-radius: 5px;
 }
 
-.imgInicio img {
+.imgStart img {
   border-radius: 10px;
 }
 
-.inicioContent p {
+.startContent p {
   color: #a8a8a8;
 }
 
-.infoInicio {
+.infoStart {
   padding-right: 30px;
 }
 
-/*Boton Inicio*/
+/*Boton Start*/
 
-.btoInicio {
+.btnStart {
   margin: 30px 0 20px;
   cursor: pointer;
   --border-color: linear-gradient(-45deg, #ffae00, #7e03aa, #00fffb);
@@ -44,7 +44,7 @@
   --curve-size: 0.5em;
   --blur: 30px;
   --bg: var(--bg-color);
-  --color: #afffff;
+  --color: #2c6969;
   color: var(--color);
   position: relative;
   isolation: isolate;
@@ -66,19 +66,60 @@
   transition: color 250ms;
 }
 
-.btoInicio::after .btoInicio::before {
+.btnStart::before,
+.btnStart::after {
   content: "";
   position: absolute;
   inset: 0;
+  z-index: -1;
 }
 
-.btoInicio::before {
+.btnStart::before {
   background: var(--border-color);
   background-size: 300% 300%;
   animation: move-bg7234 5s ease infinite;
   z-index: -2;
 }
 
+.btnStart::after {
+  background: var(--bg);
+  z-index: -1;
+  clip-path: polygon(
+    /* top-left */ var(--border-width)
+      calc(var(--curve-size) + var(--border-width) * 0.5),
+    calc(var(--curve-size) + var(--border-width) * 0.5) var(--border-width),
+    /* top-right */ calc(100% - var(--border-width)) var(--border-width),
+    calc(100% - var(--border-width))
+      calc(100% - (var(--curve-size) + var(--border-width) * 0.5)),
+    /* bottom-right */
+      calc(100% - (var(--curve-size) + var(--border-width) * 0.5))
+      calc(100% - var(--border-width)),
+    /* bottom-right 2 */ var(--border-width) calc(100% - var(--border-width))
+  );
+  transition: clip-path 500ms;
+}
+
+.btnStart:where(:hover, :focus)::after {
+  clip-path: polygon(
+    /* top-left */ calc(100% - var(--border-width))
+      calc(100% - calc(var(--curve-size) + var(--border-width) * 0.5)),
+    var(--border-width) var(--border-width),
+    /* top-right */ calc(100% - var(--border-width)) var(--border-width),
+    calc(100% - var(--border-width))
+      calc(100% - calc(var(--curve-size) + var(--border-width) * 0.5)),
+    /* bottom-right */
+      calc(100% - calc(var(--curve-size) + var(--border-width) * 0.5))
+      calc(100% - var(--border-width)),
+    /* bottom-right 2 */
+      calc(100% - calc(var(--curve-size) + var(--border-width) * 0.5))
+      calc(100% - var(--border-width))
+  );
+  transition: clip-path 200ms;
+}
+
+.btnStart:where(:hover, :focus) {
+  color: rgb(1, 20, 73);
+}
 @keyframes move-bg7234 {
   0% {
     background-position: 31% 0;
@@ -91,59 +132,18 @@
   }
 }
 
-.btoInicio::after {
-  background: var(--bg);
-  z-index: -1;
-  clip-path: polygon(
-    /*top-left*/ var(--border-width)
-      calc(var(--curve-size) + var(--border-width) * 0.5),
-    calc(var(--curve-size) + ver(--border-width) * 0.5) var(--border-width),
-    /*top-right*/ calc(100% - var(--border-width)) var(--border-width),
-    calc(100% - var(--border-width))
-      calc(100% - calc(var(--curve-size) + var(--border-width) * 0.5)),
-    /*botom-rigt*/
-      calc(100% - calc(var(--curve-size) + var(--border-width) * 0.5))
-      calc(100% - var(--border-width)),
-    /*botom right 2*/ var(--border-width) calc(100% - var(--border-width))
-  );
-  transition: clip-path 500ms;
-}
-
-.btoInicio:where(:hover, :focus)::after {
-  clip-path: polygon(
-    /*top-left*/ calc(100% - var(--border-color))
-      calc(100% - calc(var(--curve-size) + var(--border-width) * 0.5)),
-    calc(100% - var(--border-width)) var(--border-width),
-    /*top-right*/ calc(100% - var(--border-width)) var(--border-width),
-    calc(100% - var(--border-width))
-      calc(100% - calc(var(--curve-size) + var(--border-width) * 0.5)),
-    /*botom-right*/
-      calc(100% - calc(var(--curve-size) + var(--border-width) * 0.5))
-      calc(100% - var(--border-width)),
-    /*botom-right 2*/
-      calc(100% - calc(var(--curve-size) + var(--border-width) * 0.5))
-      calc(100% - var(--border-width))
-  );
-
-  transition: 200ms;
-}
-
-.btoInicio:where(:hover, :focus) {
-  color: #fff;
-}
-
 /* Media Query */
 
 @media only screen and (max-width: 1090px) {
-  .imgInicio {
+  .imgStart {
     display: none;
   }
 
-  .infoInicio {
+  .infoStart {
     text-align: center;
   }
 
-  .infoInicio h1 {
+  .infoStart h1 {
     margin-top: 20px;
   }
 }

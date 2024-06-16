@@ -1,18 +1,18 @@
 import React from "react";
-import "./Inicio.css";
+import "./Start.css";
 
-function Inicio() {
+function Start() {
   return (
-    <section className="wrapContent bg1">
-      <div className="inicioContent">
-        <div className="infoInicio">
+    <section className="generalContent allBackground">
+      <div className="startContent">
+        <div className="infoStart">
           <h1>
-            Full Stactk <br /> Software <br /> Developer{" "}
-            <span className="incioPoint"></span>
+            Full Stactk <br /> Software <br /> Developer
+            <span className="startPoint"></span>
           </h1>
-          <button className="btoInicio">Ir a Proyectos</button>
+          <button className="btnStart">Ir a Proyectos</button>
         </div>
-        <div className="imgInicio">
+        <div className="imgStart">
           <img src="src/assets/Fondo.avif" alt="" />
         </div>
       </div>
@@ -20,4 +20,4 @@ function Inicio() {
   );
 }
 
-export default Inicio;
+export default Start;

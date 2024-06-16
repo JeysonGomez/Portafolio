@@ -7,13 +7,13 @@
   background-color: var(--bg-color);
 }
 
-.proyectosContent {
+.ProjectsContent {
   width: 100%;
   text-align: center;
   justify-content: center;
 }
 
-.infoProyectos h1 {
+.infoProjects h1 {
   font-size: 50px;
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
@@ -23,12 +23,7 @@
   font-family: "Times New Roman", Times, serif;
 }
 
-.imgProyectos {
-  width: 100%;
-  display: grid;
-}
-
-.imgP {
+.imageProjects {
   width: 95%;
   display: grid;
   grid-template-columns: 10rem 15rem 15rem;
@@ -38,51 +33,36 @@
   padding-top: 20px;
 }
 
-.Calculadora,
-.PetShop,
-.Manage,
-.Sportit,
-.Proyecto1,
-.Proyecto2 {
+.calculadora,
+.petShop,
+.manage,
+.sportit,
+.doReMi,
+.proyecto1 {
   max-width: 200px;
   height: 160px;
 }
 
-.text2 {
+.titleProject {
   display: flex;
   margin-left: 35px;
   align-items: center;
   color: #fff;
 }
 
-.descripcionP {
+.descriptionProject {
   width: 100%;
   display: flex;
   justify-content: start;
   color: #fff;
 }
 
-/* Media Query */
-
-@media only screen and (max-width: 1090px) {
-  .imgInicio {
-    display: none;
-  }
-
-  .infoInicio {
-    text-align: center;
-  }
-
-  .infoInicio h1 {
-    margin-top: 20px;
-  }
-}
-
-.imgP img {
+.imageProjects img {
   object-fit: cover;
   border-radius: 20px;
 }
-.imgProyectos {
+
+.imgProjects {
   position: relative;
   width: 200px;
   height: 1400px;
