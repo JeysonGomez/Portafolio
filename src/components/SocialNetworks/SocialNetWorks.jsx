@@ -1,7 +1,7 @@
 import React from "react";
-import "./Redes.css";
+import "./SocialNetWorks.css";
 
-function Redes() {
+function SocialNetWorks() {
   return (
     <div class="social-sidebar">
       <a href="https://github.com/JeysonGomez" className="social-icon">
@@ -17,4 +17,4 @@ function Redes() {
   );
 }
 
-export default Redes;
+export default SocialNetworks;
