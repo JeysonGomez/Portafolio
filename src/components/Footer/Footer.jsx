@@ -3,19 +3,26 @@ import "./Footer.css";
 
 function Footer() {
   return (
-    <section className="Footer">
+    <section className="generalContent allBackground">
       <div className="allContent">
-        <div className="Content1">
-          <a className="img1" href="https://github.com/JeysonGomez">
-            <img className="imgRedes" src="src/assets/GitHub.png" alt="" />
+        <div className="content">
+          <a className="contentSocial" href="https://github.com/JeysonGomez">
+            <img
+              className="imgSocial"
+              src="src/assets/GitHub.png"
+              alt="GitHub"
+            />
             GitHub
           </a>
         </div>
 
-        <div className="Content1">
-          <a className="img1" href="https://www.linkedin.com/in/jeysongomez17/">
+        <div className="content">
+          <a
+            className="contentSocial"
+            href="https://www.linkedin.com/in/jeysongomez17/"
+          >
             <img
-              className="imgRedes"
+              className="imgSocial"
               src="src/assets/Logolinkedin.png"
               alt="Linkedin"
             />
