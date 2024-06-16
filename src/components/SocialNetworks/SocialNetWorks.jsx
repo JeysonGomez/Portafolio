@@ -1,7 +1,7 @@
 import React from "react";
-import "./SocialNetworks.css";
+import "./SocialNetWorks.css";
 
-function SocialNetworks() {
+function SocialNetWorks() {
   return (
     <div class="social-sidebar">
       <a href="https://github.com/JeysonGomez" className="social-icon">
