@@ -1,12 +1,12 @@
 import React from "react";
-import "./NavHeader.css";
+import "./NavBar/NavBar.css";
 
-function NavHeader() {
+function NavBar() {
   return (
-    <header className="wrapContent bg1">
-      <nav className="navHeader">
+    <header className="NavHeaderContent bg1">
+      <nav className="navBar">
         <div>
-          <h1>Desarrollador</h1>
+          <h1>Full Stack Developer</h1>
         </div>
         <ul>
           <li>

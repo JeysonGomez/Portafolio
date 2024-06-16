@@ -1,23 +1,17 @@
 import "./App.css";
-import NavHeader from "./components/NavHeader";
-import Inicio from "./components/Inicio";
-import AboutMe from "./components/AboutMe";
-import Habilidades from "./components/Habilidades";
-import Proyectos from "./components/Proyectos";
-import Redes from "./components/Redes";
-import Footer from "./components/Footer"
+
+import Footer from "./components/Footer/Footer";
+import Skills from "./components/Skills/Skills";
+import AboutMe from "./components/AboutMe/AboutMe";
+import NavBar from "./components/NavBar/NavHeader";
 
 function App() {
   return (
     <>
-      <NavHeader />
-      <Inicio />
-      <AboutMe />
-      <Habilidades />
-      <Proyectos />
-      <Redes />
       <Footer />
-       
+      <Skills />
+      <NavBar />
+      <AboutMe />
     </>
   );
 }
