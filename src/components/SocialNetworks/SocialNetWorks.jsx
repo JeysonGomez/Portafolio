@@ -17,4 +17,4 @@ function SocialNetWorks() {
   );
 }
 
-export default Redes;
+export default SocialNetworks;
