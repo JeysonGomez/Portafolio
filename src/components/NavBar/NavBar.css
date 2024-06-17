@@ -1,40 +1,42 @@
-.navBar {
+.generalContent {
+  border-radius: 0px 0px 20px 20px;
+}
+
+.navHeader {
   width: 100%;
-  max-width: 2000px;
   height: 100px;
   color: #fff;
   display: flex;
   align-items: center;
   justify-content: space-around;
-  padding-top: 10px;
 }
 
-.navBar h1 {
+.navHeader h1 {
   cursor: pointer;
   transition: color 0.4s ease;
   font-size: 40px;
 }
 
-.navBar h1:hover {
+.navHeader h1:hover {
   color: #4c8a06;
   transition: color 0.4s ease;
 }
 
 /*Links de Navegacion*/
 
-.navBar ul {
+.navHeader ul {
   width: 70%;
   display: flex;
   justify-content: end;
   align-items: center;
 }
 
-.navBar li {
+.navHeader li {
   list-style: none;
   padding-left: 10px;
 }
 
-.navBar li .btoHeader {
+.navHeader li .btnHeader {
   background-color: transparent;
   border: 0;
   cursor: pointer;
@@ -46,13 +48,13 @@
   font-size: 15px;
 }
 
-.navBar li .btoHeader:hover {
+.navHeader li .btnHeader:hover {
   color: #4c8a06;
   transition: color 0.4s ease;
 }
 
 @media only screen and (max-width: 650px) {
-  .navBarr ul {
+  .navHeader ul {
     display: none;
   }
 }

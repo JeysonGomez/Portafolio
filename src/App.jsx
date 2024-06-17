@@ -10,12 +10,14 @@ import Projects from "./components/Projects/Projects";
 function App() {
   return (
     <>
-      <Footer />
-      <Start />
-      <Skills />
       <NavBar />
+
+      <Start />
       <AboutMe />
+      <Skills />
+
       <Projects />
+      <Footer />
     </>
   );
 }
