@@ -12,7 +12,7 @@ function Footer() {
               src="src/assets/GitHub.png"
               alt="GitHub"
             />
-            GitHub
+            <br /> GitHub
           </a>
         </div>
 

@@ -1,5 +1,4 @@
 import "./App.css";
-
 import Start from "./components/Start/Start";
 import Footer from "./components/Footer/Footer";
 import Skills from "./components/Skills/Skills";

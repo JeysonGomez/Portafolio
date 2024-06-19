@@ -1,13 +1,13 @@
 /*Muestra Todo el Footer*/
-
+* {
+  background: #323232;
+}
 .generalContent {
   width: 100%;
   text-align: center;
-  color: #333;
-  border-top: 3px solid #ddd;
+  color: #050505;
   margin-top: 20px;
   border-radius: 10px;
-  background: #323232;
 }
 
 .allContent {
@@ -16,7 +16,6 @@
   padding-top: 30px;
   align-items: center;
   justify-content: center;
-  background: #323232;
 }
 
 /*Muestra el contenido de la imagen y Links*/
@@ -26,17 +25,16 @@
   grid-auto-columns: 5em;
   text-align: center;
   align-items: center;
-  background: #323232;
-}
-
-.allContent {
-  border-radius: 10px;
+  padding: 10px;
 }
 
 .imgSocial {
   width: 35px;
-  padding-bottom: 10px;
-  background: #323232;
+  padding-bottom: 20px;
+  align-items: center;
+  justify-content: center;
+  max-width: 100px;
+  max-height: 100px;
 }
 
 .contentSocial {
@@ -45,21 +43,5 @@
   align-items: center;
   list-style: none;
   text-decoration: none;
-  margin: 10px;
-  max-width: 10px;
-  font-size: 15px;
-  background: #323232;
-}
-
-/*Muestra el Copyright */
-
-.textCopy {
-  background: #323232;
-  margin-top: 10px;
-}
-
-span {
   font-size: 20px;
-  background: #323232;
-  color: #000000;
 }
